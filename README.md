@@ -1,5 +1,5 @@
 # Aleph
-a knowledge base regarding:
+a knowledge base about:
 - Semiconductor
 - Retrospection/Review of books/music/movies
 - Self-consciousness/Introspection
