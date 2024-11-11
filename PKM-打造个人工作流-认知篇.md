@@ -1,3 +1,11 @@
+---
+author: yuchen_lea
+date: 2024-11-07
+projects: PKM
+label: ref
+tags:
+---
+
 ## Source
 
 [构建可持续发展的个人工作流 01：认识篇](https://sspai.com/post/87028)
