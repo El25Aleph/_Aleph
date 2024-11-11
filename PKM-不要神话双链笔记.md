@@ -1,3 +1,11 @@
+---
+author: yuchen_lea
+date: 2024-11-10
+projects: PKM
+label: ref
+tags:
+---
+
 ## Source
 
 [请不要神化双链笔记](https://sspai.com/post/65273)
