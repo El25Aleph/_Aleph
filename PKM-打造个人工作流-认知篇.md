@@ -4,6 +4,7 @@ date: 2024-11-07
 projects: PKM
 label: ref
 tags:
+issues: https://github.com/El25Aleph/_Aleph/issues/2
 ---
 
 ## Source
