@@ -4,11 +4,14 @@ date: 2024-11-10
 projects: PKM
 label: ref
 tags:
+issues: https://github.com/El25Aleph/_Aleph/issues/4
+source: https://sspai.com/post/65273
+
 ---
 
 ## Source
 
-[请不要神化双链笔记](https://sspai.com/post/65273)
+
 
 ## Question
 
