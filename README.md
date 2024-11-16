@@ -1,4 +1,15 @@
-Aleph is a knowledge base about:
-- Semiconductor
-- Retrospection/Review of books/music/movies
-- Self-consciousness/Introspection
+
+## #PKM
+
+- [PKM-ref-不要神话双链笔记](PKM-不要神话双链笔记.md)
+- [PKM-ref-打造个人工作流-系统篇](PKM-打造个人工作流-系统篇.md)
+- [PKM-ref-打造个人工作流-认知篇](PKM-打造个人工作流-认知篇.md)
+- [PKM-ref-把阅读作为方法：从选书到笔记的经验分享](PKM-把阅读作为方法：从选书到笔记的经验分享.md)
+
+## #SS
+
+- [SS-ref-血酬定律-潜规则-吴思访谈](SS-血酬定律-潜规则-吴思访谈.md)
+
+## #Thoughts
+
+- [blog-强风吹拂](Thoughts-「强风吹拂」-何谓强大.md)
