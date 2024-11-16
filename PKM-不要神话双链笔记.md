@@ -9,10 +9,6 @@ source: https://sspai.com/post/65273
 
 ---
 
-## Source
-
-
-
 ## Question
 
 双链笔记/卡片盒笔记法 (Zettelkasten) 真的可以提高生产力吗？
