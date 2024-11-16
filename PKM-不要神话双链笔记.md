@@ -8,7 +8,7 @@ issues: https://github.com/El25Aleph/_Aleph/issues/4
 source: https://sspai.com/post/65273
 
 ---
-$$ x = y ^2 $$
+
 ## Question
 
 双链笔记/卡片盒笔记法 (Zettelkasten) 真的可以提高生产力吗？
