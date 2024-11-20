@@ -1,27 +1,16 @@
 
 ## #PKM
-
-- https://github.com/users/El25Aleph/projects/1/views/1
   
 - [ref-不要神话双链笔记](PKM-不要神话双链笔记.md)
-- [ref-打造个人工作流-系统篇](PKM-打造个人工作流-系统篇.md)
 - [ref-打造个人工作流-认知篇](PKM-打造个人工作流-认知篇.md)
+- 
 - [ref-把阅读作为方法：从选书到笔记的经验分享](PKM-把阅读作为方法：从选书到笔记的经验分享.md)
+- [ref-打造个人工作流-系统篇](PKM-打造个人工作流-系统篇.md)
 
 ## #SS
 
-- https://github.com/users/El25Aleph/projects/3/views/2
-- [ref-血酬定律-潜规则-吴思访谈](SS-血酬定律-潜规则-吴思访谈.md)
+- [card-血酬定律-潜规则-吴思访谈](SS-血酬定律-潜规则-吴思访谈.md)
 
 ## #Thoughts
 
-- https://github.com/users/El25Aleph/projects/2/views/1
 - [blog-强风吹拂](Thoughts-「强风吹拂」-何谓强大.md)
-
-`V^CE`
-
-_**V<sub>CE</sub>**_
-
-$V_{CEsat}$
-
-$$ x = y ^2 $$
