@@ -7,7 +7,7 @@ tags:
 ---
 
 ```mermaid
-%%{init: {'theme':''}}%%
+%%{init: {'theme':'neutral'}}%%
 block-beta
   columns 6
     A0["CODE 法则"] capture organize distill express:2
