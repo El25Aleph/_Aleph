@@ -1,10 +1,8 @@
 ---
 author: yuchen_lea
 date: 2024-11-10
-projects: PKM
-label: ref
+title: PKM-ref-不要神话双链笔记
 tags:
-issues: https://github.com/El25Aleph/_Aleph/issues/4
 source: https://sspai.com/post/65273
 
 ---

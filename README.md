@@ -9,7 +9,7 @@
 
 ## #SS
 
-- [card-血酬定律-潜规则-吴思访谈](SS-done-cards-血酬定律-潜规则-吴思访谈.md)
+- [card-血酬定律-潜规则-吴思访谈](SS-done-card-血酬定律-潜规则-吴思访谈.md)
 
 ## #Thoughts
 

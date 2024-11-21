@@ -1,14 +1,10 @@
 ---
 author: yuchen_lea
 date: 2024-11-09
-projects: PKM
-label: ref
+title: 打造个人工作流-系统篇 
 tags:
+source: [打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 ---
-
-## Source
-
-[打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
 
 ## Question
 
@@ -22,6 +18,7 @@ tags:
 
 ```mermaid
 classDiagram
+%%{init: {'theme':'neutral'}}%%
 direction LR
 class 实践 {
 完善工作流
