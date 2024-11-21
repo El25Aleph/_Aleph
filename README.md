@@ -14,3 +14,5 @@
 ## #Thoughts
 
 - [blog-强风吹拂](Thoughts-done-blog-「强风吹拂」-何谓强大.md)
+
+light change test in GitHub
