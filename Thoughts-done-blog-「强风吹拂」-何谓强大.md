@@ -1,9 +1,9 @@
 ---
 author: me
 date: 2024-11-07
-projects: Thoughts
-label: blog
 tags:
+title: Thoughts-blog-「强风吹拂」何谓强大
+source: 
 ---
 
 # 「强风吹拂」何谓强大

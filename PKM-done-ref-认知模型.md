@@ -2,6 +2,7 @@
 author: 老强说
 date: 2024-11-20
 tags:
+title: PKM-ref-如何训练认知？来，给你一个模型！
 source: [如何训练认知？来，给你一个模型！](https://www.bilibili.com/video/BV1No42evERs/?spm_id_from=333.337.search-card.all.click&vd_source=bfb2e50dad8e670124c382656b85473e)
 ---
 

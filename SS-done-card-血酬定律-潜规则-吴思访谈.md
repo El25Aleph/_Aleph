@@ -1,12 +1,11 @@
 ---
 author: 吴思
 date: 2024-11-15
-projects: SS
-label: ref
+title: SS-card-血酬定律-潜规则-吴思访谈
 tags: 
   - 中国历史 
   - 中国政治
-issues: https://github.com/El25Aleph/_Aleph/issues/7
+source:
 ---
 
 ## #血酬定律 

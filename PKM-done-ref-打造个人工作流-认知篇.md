@@ -1,15 +1,10 @@
 ---
 author: yuchen_lea
 date: 2024-11-07
-projects: PKM
-label: ref
 tags:
-issues: https://github.com/El25Aleph/_Aleph/issues/2
+source: [构建可持续发展的个人工作流 01：认识篇](https://sspai.com/post/87028)
+title: PKM-ref-打造个人工作流-认知篇
 ---
-
-## Source
-
-[构建可持续发展的个人工作流 01：认识篇](https://sspai.com/post/87028)
 
 ## Question
 
