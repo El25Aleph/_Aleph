@@ -89,54 +89,6 @@ flowchart TD
 
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
-flowchart LR
-  %% N: Notes
-  %% S: Source
-  %% T: Tool
-  %% L: Layer
-  L01((Mind))
-  L02((Info </br> Source))
-  S01@{ shape: lin-rect, label: "Journal </br> Thought/Idea </br> Talk" }
-  S02@{ shape: lin-rect, label: "Book/RSS </br> Podcast </br> Video" }
-  T01(Flomo)
-  T02(Apple Notes)
-  T03(Google Keep)
-  T09(Chrome/Apple Book </br> /pdf/Apple Podcasts...)
-  
-  L01 --> S01
-  L02 --> |question/motivation|S02
-  S01 --> T01 & T03
-  S02 --> T09 --> |fact/opinion?|T02 
-  T01 & T03 --> |review|T02 
-
-```
-
-```mermaid
-%%{init: {'theme':'neutral'}}%%
-flowchart LR
-  AN(Apple Notes)
-  AP(Apple Podcasts)
-  AB(Apple Book)
-  Flomo(Flomo)
-  Chrome(Chrome)
-  %%Z(Zotero)
-  vs(vsCode)
-  gh(GitHub)
-
-  Flomo --> AN
-  Chrome --> AN
-  AB --> AN
-  AP --> AN
-  %%Z -.-> vs
-  AN --> |Fleeting </br> Notes|vs --> |Literature </br> Notes| gh
-  vs --> |Permanet </br> Notes| gh
-  vs --> |Blog| gh
-  gh --> |Backup|vs
-
-```
-
-```mermaid
-%%{init: {'theme':'neutral'}}%%
 sequenceDiagram
   Apple Notes ->> Apple Notes: 1. create check list
   Apple Notes ->> Apple Notes: 2. edit Fleeting Notes
@@ -151,7 +103,5 @@ sequenceDiagram
   loop
     Apple Notes <<->> GitHub/Code: 11. insight/congnition
   end
-
-    
+ 
 ```
-
