@@ -1,27 +1,9 @@
 ---
 author: me
 date: 2024-11-17
-title: 我的最小可行性知识管理系统
+title: 我的最小可行性知识管理系统-工具篇
 tags:
 ---
-
-## 1. 认知
-
-## 2. 信息流
-
-## 3. 工作流
-
-## 4. 输出流
-
-```mermaid
-%%{init: {'theme':'neutral'}}%%
-block-beta
-  columns 6
-    A0["CODE 法则"] capture organize distill express:2
-    A1["理解层次"] a["know what"]:2 b["know how"] c["know why"]:2
-    A2["ZK 笔记"] 闪念/临时笔记 文献/大纲笔记 永久/长青笔记：观点+词条笔记:3
-    A3["认知模型"] 主动输入 知识体系 刻意练习 MVP 持续输出
-```
 
 ```mermaid
 %%{init:{'theme':'neutral'}}%%
