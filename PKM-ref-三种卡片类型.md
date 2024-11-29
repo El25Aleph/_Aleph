@@ -1,7 +1,7 @@
 ---
+title: 三种卡片类型 
 author: Minjia
 date: 2022-09-11
-title: 三种卡片类型 
 tags:
 source: [三种卡片类型](https://utgd.net/article/6941)
 ---

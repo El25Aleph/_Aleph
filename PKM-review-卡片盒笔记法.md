@@ -1,7 +1,7 @@
 ---
+title: 卡片盒笔记法
 author: me
 date: 2024-11-26
-title: 卡片盒笔记法
 tags:
 source: 
 ---

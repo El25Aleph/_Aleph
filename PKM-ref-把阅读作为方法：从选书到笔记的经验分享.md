@@ -1,7 +1,7 @@
 ---
+title: PKM-ref-把阅读作为方法：从选书到笔记的经验分享
 author: yuchen_lea
 date: 2024-11-12
-projects: PKM-ref-把阅读作为方法：从选书到笔记的经验分享
 source: [把阅读作为方法：从选书到笔记的经验分享](https://sspai.com/post/78133)
 tags:
 ---
