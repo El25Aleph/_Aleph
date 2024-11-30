@@ -2,10 +2,15 @@
 ## #PKM
 
 - [ ] [blog-我的最小可行性知识管理系统-工具篇](/docs/PKM-blog-我的最小可行性知识管理系统-工具篇.md)
-
 - [x] [blog-我的最小可行性知识管理系统-认知篇](/docs/PKM-blog-我的最小可行性知识管理系统-认知篇.md)
+
+---
+
 - [x] [card-渐进式阅读](/docs/PKM-card-渐进式阅读.md)
 - [x] [review-卡片盒笔记法](/docs/PKM-review-卡片盒笔记法.md)
+  
+---
+
 - [x] [ref-打造个人工作流-认知篇](/docs/PKM-ref-打造个人工作流-认知篇.md)
 - [ ] [ref-打造个人工作流-系统篇](/docs/PKM-ref-打造个人工作流-系统篇.md)
 - [x] [ref-三种卡片类型](/docs/PKM-ref-三种卡片类型.md)

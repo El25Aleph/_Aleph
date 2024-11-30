@@ -121,7 +121,7 @@ tags:
 
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
-flowchart TD
+flowchart 
     subgraph N1[Fleeting Notes]
     #extract
     #draft
@@ -132,6 +132,7 @@ flowchart TD
     #review
     #card
     #ref --> #review
+    #review --> #ref
     #review --> #card
     #card --> #review
     end
@@ -139,6 +140,8 @@ flowchart TD
     #blog
     end
     N1 --> |progressive reading|N2 --> |publish|N3
+    N2 --> |insight|N1
+    N3 --> |insight|N2
 ```
 
 ### 4.2 CODE 法则
