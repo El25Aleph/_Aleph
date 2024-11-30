@@ -3,7 +3,7 @@ title: 三种卡片类型
 author: Minjia
 date: 2022-09-11
 tags: 
-source: [三种卡片类型](https://utgd.net/article/6941)
+source: https://utgd.net/article/6941
 ---
 
 作者以「造房子」为例，把笔记分为三种：

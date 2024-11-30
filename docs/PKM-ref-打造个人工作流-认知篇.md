@@ -3,7 +3,7 @@ title: PKM-ref-打造个人工作流-认知篇
 author: yuchen_lea
 date: 2024-11-07
 tags:
-source: [构建可持续发展的个人工作流 01：认识篇](https://sspai.com/post/87028)
+source: https://sspai.com/post/87028
 ---
 
 ## Question

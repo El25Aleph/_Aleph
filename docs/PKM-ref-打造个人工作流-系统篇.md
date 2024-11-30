@@ -3,7 +3,7 @@ title: 打造个人工作流-系统篇
 author: yuchen_lea
 date: 2024-11-09
 tags:
-source: [打造可持续的个人工作流 02：系统篇](https://sspai.com/post/87698)
+source: https://sspai.com/post/87698
 ---
 
 ## Question
