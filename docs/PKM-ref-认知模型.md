@@ -16,7 +16,7 @@ source: https://www.bilibili.com/video/BV1No42evERs/?spm_id_from=333.337.search-
 ---
 title: 老强的认知训练模型
 ---
-flowchart LR
+flowchart TD
 %%{init: {'theme':'neutral'}}%%
     输入 --> 判断 --> 知识体系 --> 刻意练习 --> 测试 --> 持续输出 --> 获得成果
 ```

@@ -7,13 +7,15 @@ kanban
     长青笔记/大纲笔记
     渐进式阅读
     层级结构/网状结构
-    批判性思维
-    学以致用
-    5am-project
+    主动输入：批判性思维
+    主动输出：学以致用
+    5am-club: 无利不起早
   #review
     卡片盒笔记法
     如何阅读
 ```
+
+![知识体系的构建](/pdf/PKM-wb-知识体系的构建.pdf)
 
 ---
 
@@ -26,7 +28,7 @@ kanban
 - [x] [card-渐进式阅读](/docs/PKM-card-渐进式阅读.md)
 - [x] [card-5am-project](/docs/PKM-card-5am-project.md)
 - [ ] [review-卡片盒笔记法](/docs/PKM-review-卡片盒笔记法.md)
-- [ ] [review-如何阅读](PKM-review-如何阅读.md)
+- [ ] [review-如何阅读](/docs/PKM-review-如何阅读.md)
   
 ---
 
