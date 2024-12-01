@@ -17,6 +17,11 @@ kanban
 
 ![知识体系的构建](/pdf/PKM-wb-知识体系的构建.pdf)
 
+<iframe src="https://github.com/El25Aleph/_Aleph/blob/main/pdf/PKM-wb-知识体系的构建.pdf" type="application/pdf" width="100%" height="100%"></iframe>
+
+
+
+
 ---
 
 - [ ] [blog-我的知识管理-工具篇](/docs/PKM-blog-我的知识管理-工具篇.md)
