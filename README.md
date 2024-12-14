@@ -1,6 +1,8 @@
 
 ## #PKM
 
+基本概念和大纲笔记：
+
 ```mermaid
 kanban
   #card
@@ -15,6 +17,8 @@ kanban
     如何阅读
 
 ```
+
+框架：
 
 ```mermaid
 %%{init:{'theme': ''}}%%
