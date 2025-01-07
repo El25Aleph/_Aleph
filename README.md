@@ -83,6 +83,9 @@ flowchart TD
 ## #SS
 
 - [x] [card-血酬定律-潜规则-吴思访谈](/docs/SS-card-血酬定律-潜规则-吴思访谈.md)
+- [x] [review-刻意练习](/docs/SS-review-刻意练习.md)
+- [x] [review-毫无意义的工作](/docs/SS-review-毫无意义的工作.md)
+- [x] [review-性心理学](/docs/SS-review-性心理学.md)
 
 ## #Thoughts
 
