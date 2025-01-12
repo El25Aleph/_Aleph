@@ -1,4 +1,8 @@
 
+## #HS
+
+- [x] [review-谈谈方法](/docs/HS-review-谈谈方法.md)
+
 ## #PKM
 
 基本概念和大纲笔记：
