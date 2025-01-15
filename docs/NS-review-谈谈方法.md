@@ -1,7 +1,7 @@
 ---
 author: René Descartes 
 date: 2025-01-12
-title: HS-review-谈谈方法
+title: NS-review-谈谈方法
 tags: 
 source:
 ---
