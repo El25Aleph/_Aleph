@@ -1,12 +1,21 @@
 
-## #HS
+## #Humanities
 
 - [x] [review-谈谈方法](/docs/HS-review-谈谈方法.md)
 - [ ] [blog-强风吹拂](/docs/HS-blog-「强风吹拂」-何谓强大.md)
 
 ---
 
-## #PKM
+## #Social Sciences
+
+- [x] [card-血酬定律-潜规则-吴思访谈](/docs/SS-card-血酬定律-潜规则-吴思访谈.md)
+- [x] [review-刻意练习](/docs/SS-review-刻意练习.md)
+- [x] [review-毫无意义的工作](/docs/SS-review-毫无意义的工作.md)
+- [x] [review-性心理学](/docs/SS-review-性心理学.md)
+
+## #Natural Sciences
+
+### #PKM
 
 - [x] [blog-我的知识管理-工具篇](/docs/PKM-blog-我的知识管理-工具篇.md)
 - [ ] [blog-我的知识管理-认知篇](/docs/PKM-blog-我的知识管理-认知篇.md)
@@ -30,9 +39,3 @@
 - [x] [ref-认知模型](/docs/PKM-ref-认知模型.md)
 - [x] [ref-巧用分类法解决使用卡片笔记时遇到的困境](/docs/PKM-ref-巧用分类法解决使用卡片笔记时遇到的困境-少数派.md)
 
-## #SS
-
-- [x] [card-血酬定律-潜规则-吴思访谈](/docs/SS-card-血酬定律-潜规则-吴思访谈.md)
-- [x] [review-刻意练习](/docs/SS-review-刻意练习.md)
-- [x] [review-毫无意义的工作](/docs/SS-review-毫无意义的工作.md)
-- [x] [review-性心理学](/docs/SS-review-性心理学.md)
