@@ -1,7 +1,7 @@
 ---
 author: me
 date: 2024-11-17
-title: 我的最小可行性知识管理系统-工具篇
+title: 我的知识管理系统-工具篇
 tags:
 ---
 
@@ -76,21 +76,3 @@ flowchart TD
     tag3 & tag4 & tag5 & tag6 --> vsCode
 ```
 
-```mermaid
-%%{init: {'theme':'neutral'}}%%
-sequenceDiagram
-  Apple Notes ->> Apple Notes: 1. create check list
-  Apple Notes ->> Apple Notes: 2. edit Fleeting Notes
-  Apple Notes ->> Apple Notes: 3. check list Point 1 is done
-  vsCode ->> vsCode: 4. edit Literature/Permanet Notes and Blog
-  vsCode ->> Apple Notes: 5. check list Point 2 is done
-  vsCode ->> vsCode: 6. update README.md
-  vsCode ->> Apple Notes: 7. check list Point 3 is done
-  vsCode ->> GitHub/Code: 8. commit local file
-  GitHub/Code ->> Apple Notes: 9. check list Point 4 is done
-  Apple Notes ->> Apple Notes: 10. move item to Archive
-  loop
-    Apple Notes <<->> GitHub/Code: 11. insight/congnition
-  end
- 
-```
