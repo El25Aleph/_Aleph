@@ -2,7 +2,7 @@
 ## #Humanities
 
 - [x] [review-谈谈方法](/docs/HS-review-谈谈方法.md)
-- [ ] [blog-强风吹拂](/docs/HS-blog-「强风吹拂」-何谓强大.md)
+- [x] [blog-强风吹拂](/docs/HS-blog-「强风吹拂」-何谓强大.md)
 
 ---
 
@@ -18,7 +18,7 @@
 ### #PKM
 
 - [x] [blog-我的知识管理-工具篇](/docs/PKM-blog-我的知识管理-工具篇.md)
-- [ ] [blog-我的知识管理-认知篇](/docs/PKM-blog-我的知识管理-认知篇.md)
+- [x] [blog-我的知识管理-认知篇](/docs/PKM-blog-我的知识管理-认知篇.md)
 - [x] [blog-我的知识管理-笔记篇](/docs/PKM-blog-我的知识管理-笔记篇.md)
 
 ---
