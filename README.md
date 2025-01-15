@@ -1,7 +1,6 @@
 
 ## #Humanities
 
-- [x] [review-谈谈方法](/docs/HS-review-谈谈方法.md)
 - [x] [blog-强风吹拂](/docs/HS-blog-「强风吹拂」-何谓强大.md)
 
 ---
@@ -14,6 +13,10 @@
 - [x] [review-性心理学](/docs/SS-review-性心理学.md)
 
 ## #Natural Sciences
+
+- [x] [review-谈谈方法](/docs/NS-review-谈谈方法.md)
+
+---
 
 ### #PKM
 
