@@ -1,22 +1,22 @@
 
-## #Humanities
+## # Humanities
 
 - [x] [blog-强风吹拂](/docs/HS-blog-「强风吹拂」-何谓强大.md)
 
----
+## # Social Sciences
 
-## #Social Sciences
-
+- [x] [card-4S法解决战略问题](/docs/SS-card-4S法解决战略问题.md)
 - [x] [card-血酬定律-潜规则-吴思访谈](/docs/SS-card-血酬定律-潜规则-吴思访谈.md)
 - [x] [review-刻意练习](/docs/SS-review-刻意练习.md)
 - [x] [review-毫无意义的工作](/docs/SS-review-毫无意义的工作.md)
 - [x] [review-性心理学](/docs/SS-review-性心理学.md)
+- [ ] [review-像高手一样解决问题](/docs/SS-review-像高手一样解决问题.md)
 
-## #Natural Sciences
+## # Natural Sciences
 
 - [x] [review-谈谈方法](/docs/NS-review-谈谈方法.md)
 
----
+## #Misc
 
 ### #PKM
 
