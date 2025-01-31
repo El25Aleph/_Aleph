@@ -11,7 +11,7 @@
 - [x] [review-毫无意义的工作](/docs/SS-review-毫无意义的工作.md)
 - [x] [review-性心理学](/docs/SS-review-性心理学.md)
 - [ ] [review-像高手一样解决问题](/docs/SS-review-像高手一样解决问题.md)
-- [ ] [review-滚床单心理学](/docs/SS-review-滚床单心理学.md)
+- [x] [review-滚床单心理学](/docs/SS-review-滚床单心理学.md)
 
 ## # Natural Sciences
 
