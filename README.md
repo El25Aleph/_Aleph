@@ -16,6 +16,7 @@
 ## # Natural Sciences
 
 - [x] [review-谈谈方法](/docs/NS-review-谈谈方法.md)
+- [x] [review-简单的逻辑学](/docs/NS-review-简单的逻辑学.md)
 
 ---
 
