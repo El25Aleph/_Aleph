@@ -17,6 +17,8 @@
 
 - [x] [review-谈谈方法](/docs/NS-review-谈谈方法.md)
 - [x] [review-简单的逻辑学](/docs/NS-review-简单的逻辑学.md)
+- [ ] [review-学会提问](/docs/NS-review-学会提问.md)
+- [ ] [card-批判性思维](/docs/NS-card-批判性思维.md)
 
 ---
 
