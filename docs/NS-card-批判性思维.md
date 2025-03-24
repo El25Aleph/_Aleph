@@ -6,6 +6,24 @@ tags:
 source:
 ---
 
+```mermaid
+graph TD
+%%{init:{'theme': 'neutral'}}%%
+  Issue --> E[Reasoning]
+  A[Reason]
+  B[Assumption]
+  C[Evidence]
+  subgraph D[Grey Thinking]
+  Ambiguous?
+  Fallacy?
+  F[Rival Causes?]
+  end
+  E --> |What|A
+  E --> |How:implicit|B
+  E --> |How:explicit|C
+  A & B & C --> D --> Conclusion
+```
+
 Critical Thinking 由三部分构成：
 
 - 论题 (Issue)
@@ -35,7 +53,7 @@ Critical Thinking 的最终结果，就是要求一个人：
 >结论是作者或发言者希望你接受的信息，它们来源于论证，是被推论出来的。
 
 - 类别：信息 (Message)
-- 属性：源于论证 (Reasioning)，论证的过程被称为推论 (inferred)
+- 属性：源于推理 (Reasioning)，其过程被称为推论 (inferred)
 - 如何发现结论
   - 论题是什么
   - 指示词 (Indicator Words)
@@ -183,3 +201,26 @@ Critical Thinking 的最终结果，就是要求一个人：
     - 事实会随着时间而改变
     - 研究只能支持结论，无法证明结论
     - 科学研究是人类活动，无法摆脱主观影响
+
+## 替代原因 (Rival Causes)
+
+>所谓替代原因，即言之成理的替代解释，它能够说明为什么特定的结果会发生
+
+- 类别：解释 (plausible alternative explanation)
+- 属性：解释为何会发生一种特定的结果 (outcome)
+- 避免以下谬误：
+  - a cause ≠ the cause
+  - Association/Correlation ≠ 因果关系 (Causation)
+  - 混淆因果关系：两件事之间可能是相互影响的
+  - 忽略共同原因：两件事之间之所以有联系，是因为第三种因素在起作用
+  - 事件 A 引起事件 B，仅仅是因为事件 A 在事件 B 之后发生
+
+## 其他
+
+使用灰度思维 (Grey Thinking) 而非二分思维 (Dichotomous Thinking) 考虑问题
+
+统计数字的可信度有多少，以平均值 (Averages) 为例：
+
+- Mean/平均数
+- Median/中位数
+- Mode/众数
