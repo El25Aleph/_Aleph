@@ -17,6 +17,7 @@ graph TD
   Ambiguous?
   Fallacy?
   F[Rival Causes?]
+  G[Omitted Information?]
   end
   E --> |What|A
   E --> |How:implicit|B
