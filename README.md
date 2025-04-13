@@ -12,13 +12,14 @@
 - [x] [review-像高手一样解决问题](/docs/SS-review-像高手一样解决问题.md)
 - [x] [review-滚床单心理学](/docs/SS-review-滚床单心理学.md)
 - [x] [review-博弈论与生活](/docs/SS-review-博弈论与生活.md) 
+- [ ] [review-置身事内：中国政府与经济发展](/docs/SS-review-置身事内：中国政府与经济发展.md)
 
 ## # Natural Sciences
 
+- [x] [card-批判性思维](/docs/NS-card-批判性思维.md)
 - [x] [review-谈谈方法](/docs/NS-review-谈谈方法.md)
 - [x] [review-简单的逻辑学](/docs/NS-review-简单的逻辑学.md)
 - [x] [review-学会提问](/docs/NS-review-学会提问.md)
-- [x] [card-批判性思维](/docs/NS-card-批判性思维.md)
 
 ---
 
