@@ -13,6 +13,8 @@
 - [x] [review-滚床单心理学](/docs/SS-review-滚床单心理学.md)
 - [x] [review-博弈论与生活](/docs/SS-review-博弈论与生活.md) 
 - [ ] [review-置身事内：中国政府与经济发展](/docs/SS-review-置身事内：中国政府与经济发展.md)
+- [ ] [review-内向者沟通圣经](/docs/NS-review-内向者沟通圣经.md)
+- [ ] [review-精力管理](/docs/NS-review-精力管理.md)
 
 ## # Natural Sciences
 
