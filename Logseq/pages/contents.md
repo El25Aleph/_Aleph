@@ -23,15 +23,14 @@ background-color:: red
 		- [[《性心理学》]]
 		- [[《滚床单心理学》]]
 	- 科学类
-	  collapsed:: true
 		- [[《简单的逻辑学》]]
 		- [[《学会提问》]]
 		- [[《谈谈方法》]]
 	- 人文类
-	  collapsed:: true
 		- [[《强风吹拂》]]
 		- [[《大风杀》]]
-- ## 02-fragment
+		- [[《士兵突击》]]
+- ## 02-fragment•evergreen
   background-color:: purple
 	- [[PKM]]
 	- [[电力电子]]

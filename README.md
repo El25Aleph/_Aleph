@@ -6,23 +6,23 @@
 
 - [x] [card-4S法解决战略问题](/docs/SS-card-4S法解决战略问题.md)
 - [x] [card-血酬定律-潜规则-吴思访谈](/docs/SS-card-血酬定律-潜规则-吴思访谈.md)
-- [x] [review-刻意练习](/docs/SS-review-刻意练习.md)
-- [x] [review-毫无意义的工作](/docs/SS-review-毫无意义的工作.md)
-- [x] [review-性心理学](/docs/SS-review-性心理学.md)
-- [x] [review-像高手一样解决问题](/docs/SS-review-像高手一样解决问题.md)
-- [x] [review-滚床单心理学](/docs/SS-review-滚床单心理学.md)
-- [x] [review-博弈论与生活](/docs/SS-review-博弈论与生活.md) 
-- [ ] [review-置身事内：中国政府与经济发展](/docs/SS-review-置身事内：中国政府与经济发展.md)
-- [x] [review-内向者沟通圣经](/docs/NS-review-内向者沟通圣经.md)
-- [ ] [review-精力管理](/docs/NS-review-精力管理.md)
-- [ ] 
+- [x] [ref-刻意练习](/docs/SS-ref-刻意练习.md)
+- [x] [ref-毫无意义的工作](/docs/SS-ref-毫无意义的工作.md)
+- [x] [ref-性心理学](/docs/SS-ref-性心理学.md)
+- [x] [ref-像高手一样解决问题](/docs/SS-ref-像高手一样解决问题.md)
+- [x] [ref-滚床单心理学](/docs/SS-ref-滚床单心理学.md)
+- [x] [ref-博弈论与生活](/docs/SS-ref-博弈论与生活.md) 
+- [ ] [ref-置身事内：中国政府与经济发展](/docs/SS-ref-置身事内：中国政府与经济发展.md)
+- [x] [ref-内向者沟通圣经](/docs/NS-ref-内向者沟通圣经.md)
+- [ ] [ref-精力管理](/docs/NS-ref-精力管理.md)
+- [ ] [ref-博客十年](/docs/SS-ref-博客十年.md)
 
 ## # Natural Sciences
 
 - [x] [card-批判性思维](/docs/NS-card-批判性思维.md)
-- [x] [review-谈谈方法](/docs/NS-review-谈谈方法.md)
-- [x] [review-简单的逻辑学](/docs/NS-review-简单的逻辑学.md)
-- [x] [review-学会提问](/docs/NS-review-学会提问.md)
+- [x] [ref-谈谈方法](/docs/NS-ref-谈谈方法.md)
+- [x] [ref-简单的逻辑学](/docs/NS-ref-简单的逻辑学.md)
+- [x] [ref-学会提问](/docs/NS-ref-学会提问.md)
 
 ---
 
