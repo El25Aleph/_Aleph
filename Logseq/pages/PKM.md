@@ -1,3 +1,3 @@
-filters:: {"contents" false}
+filters:: {"contents" false, "done" false}
 
 -

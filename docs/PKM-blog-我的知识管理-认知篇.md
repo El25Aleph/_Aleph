@@ -7,7 +7,7 @@ data: 2024-11-30
 框架：
 
 ```mermaid
-%%{init:{'theme': ''}}%%
+%%{init:{'theme': 'neutral'}}%%
 flowchart TD
     确定目标@{ shape: stadium, label: "1.确定目标" }
     subgraph 1[4.学以致用]

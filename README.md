@@ -1,3 +1,7 @@
+# MOC
+
+[review-PKM](/docs/review-个人知识库管理.md)
+
 ## # Humanities
 
 - [x] [blog-强风吹拂](/docs/HS-blog-「强风吹拂」-何谓强大.md)
@@ -11,7 +15,7 @@
 - [x] [ref-性心理学](/docs/SS-ref-性心理学.md)
 - [x] [ref-像高手一样解决问题](/docs/SS-ref-像高手一样解决问题.md)
 - [x] [ref-滚床单心理学](/docs/SS-ref-滚床单心理学.md)
-- [x] [ref-博弈论与生活](/docs/SS-ref-博弈论与生活.md) 
+- [x] [ref-博弈论与生活](/docs/SS-ref-博弈论与生活.md)
 - [ ] [ref-置身事内：中国政府与经济发展](/docs/SS-ref-置身事内：中国政府与经济发展.md)
 - [x] [ref-内向者沟通圣经](/docs/NS-ref-内向者沟通圣经.md)
 - [ ] [ref-精力管理](/docs/NS-ref-精力管理.md)
@@ -36,8 +40,6 @@
 
 - [x] [card-渐进式阅读](/docs/PKM-card-渐进式阅读.md)
 - [x] [card-5am-project](/docs/PKM-card-5am-project.md)
-- [ ] [review-卡片盒笔记法](/docs/PKM-review-卡片盒笔记法.md)
-- [ ] [review-如何阅读](/docs/PKM-review-如何阅读.md)
   
 - [ ] [ref-打造个人工作流-系统篇](/docs/PKM-ref-打造个人工作流-系统篇.md)
 - [x] [ref-打造个人工作流-认知篇](/docs/PKM-ref-打造个人工作流-认知篇.md)
