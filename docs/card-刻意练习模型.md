@@ -4,6 +4,23 @@
 
 ## 1. 核心内容
 
+```mermaid
+flowchart TB
+%%{init: {'theme':'neutral'}}%%
+A[Target] 
+B[Focus]
+C[舒适区]
+E[Feedback]
+F[Fix]
+G[心理表征]
+
+A-->|1.目标分解| B -->|形成| C -->|强化| G
+%%E <--> F
+E --> |2.找到边缘|C
+F --> |3.突破|C
+G --> |4.动态调整|A
+```
+
 ### 有目的的练习
 
 由四部分组成：
@@ -37,22 +54,14 @@
 - 主动练习，并把成果及时与导师分享
 - 根据导师的建议及时修正（Fix）错误
 
-
-```mermaid
-block-beta
-%%{init: {'theme':'neutral'}}%%
-columns 5
-
-```
-
-### a) What
+### a) Why
 
 
 
 ### b) How
 
 
-### c) Why
+### c) What
 
 
 
@@ -64,4 +73,4 @@ columns 5
 
 ## 3. 相关链接
 
-刻意练习：心理表征
+[仪式习惯](/docs/card-精力金字塔模型.md)

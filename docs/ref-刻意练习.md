@@ -3,24 +3,26 @@ author:
     - 「美」Anders Ericson
     - 「美」Robert Pool
 date: 2024-12-31
-title: review-刻意练习
+title: ref-刻意练习
 tags: 
 source:
 ---
 
 ## 1. 核心思想
 
-通过高度结构化、目标明确的持续性训练，任何人皆可突破天赋限制，重塑大脑与身体能力，成为特定领域的专家。
+通过高度结构化、目标明确的刻意练习，任何人皆可突破天赋限制，重塑大脑与身体能力，成为特定领域的专家。
 
 ## 2. 核心概念
 
-### 刻意练习
+### 刻意练习（deliberate practice）
 
 - 定义：在舒适区外进行目标分解、即时反馈、反复修正的专业化训练
 - 示例：小提琴手针对薄弱乐章逐小节纠正音准
 - 反例：每天重复弹奏已熟练的曲目
 
-### 心理表征
+### 心理表征（mental representation）
+
+我查阅了 mental representation 的原始解释，个人感觉这个词放在刻意练习中并不合适，于是参考[这里](https://www.bilibili.com/video/BV1qM4m197z2/?spm_id_from=333.337.search-card.all.click&vd_source=bfb2e50dad8e670124c382656b85473e)使用「形成习惯」一词代替。
 
 - 定义：大脑中形成的专业领域信息的高效组织模式
 - 示例：棋手瞬间识别棋局优劣的直觉判断
