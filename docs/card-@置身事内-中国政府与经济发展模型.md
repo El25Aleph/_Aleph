@@ -23,7 +23,15 @@ block-beta
     block:group1:2
     columns 3
     城市化 工业化 国际化
+    end
+存在问题
+    block:group2:2
+    columns 3
     重土地轻人 重生产轻消费 重规模轻质量
+    end
+导致后果
+    block:group3:2
+    columns 3
     贫富差距加大 负债加重 产能过剩 
     end
 解决方案 a["生产型政府 → 服务型政府"]:2
