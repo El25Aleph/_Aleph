@@ -47,4 +47,4 @@ flowchart TB
 
 ## 3. 相关链接
 
-[仪式习惯](/docs/card-精力金字塔模型.md)
+[仪式习惯](/docs/card-@精力管理-精力金字塔模型.md)

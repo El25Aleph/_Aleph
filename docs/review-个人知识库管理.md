@@ -209,4 +209,7 @@ source:
 - 每个 card 拥有若干主题，主题使用标签来描述
 - 若干 card 描述同一主题，该主题可以汇总为 review
 - 同样地，在 review 中也许会发现某些 card 之间的联系，形成新的 card 或者体系
-- 若干 card 可以作为 blog 写作的大纲，使用 AI 辅助写作
+- 若干 card 可以作为 blog 写作的大纲，使用 AI 辅助写作。备选 AI 有：
+  - Refly
+  - NotebookLM
+  - DeepSeek
