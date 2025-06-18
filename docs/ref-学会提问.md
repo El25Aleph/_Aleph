@@ -1,15 +1,14 @@
 ---
 title: 学会提问 (Asking the Right Questions - A Guide to Critical Thinking)
-author: 
-- 「美」Neil Browne
-- 「美」Stuart Keeley
-- 「译」许蔚瀚
-- 「译」吴礼敬
+author:
+  - 「美」Neil Browne
+  - 「美」Stuart Keeley
+  - 「译」许蔚瀚
+  - 「译」吴礼敬
 date: 2025-03-22
-tags:
-source:
+tags: null
+source: null
 ---
-
 ## 问题
 
 ### Q1: 为什么要读这本书？
@@ -22,13 +21,13 @@ source:
 
 主要背景与贡献：
 
-- 学术背景：
+- 学术背景：  
     尼尔·布朗曾在美国鲍灵格林州立大学（Bowling Green State University）任教，担任经济学教授，后专注于批判性思维的研究与教学。
-- 代表作《学会提问》：
+- 代表作《学会提问》：  
     该书自1981年首次出版后多次再版，被誉为批判性思维的“圣经”。书中提出了“批判性思维十步法”，指导读者如何通过提问辨析论点的逻辑、证据和假设，适用于学术、职场及日常生活。
-- 核心思想：
+- 核心思想：  
     强调主动质疑（“海绵式思维” vs “淘金式思维”），鼓励读者不盲目接受信息，而是通过系统性提问（如“结论是什么？”“证据是否有效？”）深入思考。
-- 影响领域：
+- 影响领域：  
     其方法论被广泛应用于教育、商业决策、媒体素养等领域，尤其在“后真相时代”对辨别误导性信息具有重要价值。
 
 ### Q3: 这是哪类书？用一句话或一段话概述整本书的内容
@@ -37,19 +36,19 @@ source:
 
 ### Q4: 将书中重要篇章列举出来，它们是如何组成整体的架构的？
 
-第 1 章：批判性思维的重要性
-第 2 章：Issue and Conclusion
-第 3 章: Reasons
-第 4 章: Ambiguous
-第 5 章: Assumption
-第 6 章: Fallacies
-第 7-8 章: Evidence
-第 9 章: Rival Causes
+第 1 章：批判性思维的重要性  
+第 2 章：Issue and Conclusion  
+第 3 章: Reasons  
+第 4 章: Ambiguous  
+第 5 章: Assumption  
+第 6 章: Fallacies  
+第 7-8 章: Evidence  
+第 9 章: Rival Causes  
 第 10 章: Omitted Information
 
 ### Q5: 重要的概念/关键词？
 
-见 [card-批判性思维](/docs/NS-card-批判性思维.md)
+见 [card-批判性思维](/docs/NS-card-%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4.md "card-批判性思维")
 
 ### Q6: 读完这本书有什么感想，是否同意作者观点？是否有疑问？
 
@@ -66,8 +65,8 @@ source:
 
 对于逻辑性比较强的书籍，可以采用以下提问方式：
 
-1. Issue?
-2. Concusion?
-3. Reasons?
-4. Evidence?
-5. Assumption?
+1.  Issue?
+2.  Concusion?
+3.  Reasons?
+4.  Evidence?
+5.  Assumption?

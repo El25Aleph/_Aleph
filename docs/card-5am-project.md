@@ -4,7 +4,6 @@ author: MoneyXYZ
 source: https://www.youtube.com/watch?v=4zXTyc2ZjXM
 date: 2023-01-07
 ---
-
 ## 什么是 5am-project？
 
 专注于早起想做的事情 (project)，而非早起本身。
