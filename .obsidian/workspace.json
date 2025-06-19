@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98345d8ab05bed67",
+        "id": "e4c0fe53b0b61696",
         "type": "tabs",
         "children": [
           {
-            "id": "ceeb0118846b02ff",
+            "id": "345a559c950e4c03",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -175,7 +175,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ceeb0118846b02ff",
+  "active": "7708f8105527e374",
   "lastOpenFiles": [
     "docs/card-@血酬定律-潜规则-血酬定律模型.md",
     "docs/card-@精力管理-精力金字塔模型.md",
