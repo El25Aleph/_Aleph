@@ -1,5 +1,5 @@
 {
-  "lightStyle": "minimal-light",
+  "lightStyle": "minimal-light-tonal",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-default-light",
   "darkScheme": "minimal-default-dark",
@@ -20,7 +20,7 @@
   "colorfulFrame": false,
   "colorfulActiveStates": false,
   "trimNames": true,
-  "labeledNav": false,
+  "labeledNav": true,
   "fullWidthMedia": true,
   "bordersToggle": true,
   "minimalStatus": true,

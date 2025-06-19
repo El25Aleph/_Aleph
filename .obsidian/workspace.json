@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ccaa11ae2a253443",
+        "id": "98345d8ab05bed67",
         "type": "tabs",
         "children": [
           {
-            "id": "18514e5f5ba030ec",
+            "id": "ceeb0118846b02ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#中国政府",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "fd4befba5d699e2a",
@@ -158,25 +159,32 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "7708f8105527e374",
+  "active": "ceeb0118846b02ff",
   "lastOpenFiles": [
+    "docs/card-@血酬定律-潜规则-血酬定律模型.md",
+    "docs/card-@精力管理-精力金字塔模型.md",
+    "README.md",
+    "docs/blog-我的知识管理-工具篇.md",
+    "docs/blog-我的知识管理-认知篇.md",
+    "docs/card-渐进式阅读.md",
+    "docs/card-@刻意练习-刻意练习模型.md",
     "Logseq/logseq/bak/journals/2025_04_23/2025-06-17T21_02_32.178Z.Desktop.md",
     "Logseq/logseq/bak/journals/2025_04_20/2025-06-17T21_02_32.189Z.Desktop.md",
     "Logseq/logseq/bak/journals/2025_04_20",
