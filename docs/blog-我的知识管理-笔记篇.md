@@ -120,7 +120,7 @@ tags:
 
 ```mermaid
 %%{init: {'theme':'neutral'}}%%
-flowchart 
+flowchart BT
     subgraph N1[Fleeting Notes]
     #extract
     #draft
@@ -155,7 +155,120 @@ block-beta
     A3["认知模型"] 主动输入 知识体系:2 刻意练习 MVP 持续输出
 ```
 
-## 4.3 对引言的回答
+### 4.3 实现信息流与工作流的工具与标签
+
+```mermaid
+%%{init:{'theme':'neutral'}}%%
+flowchart TD
+    %%Source:
+    L1@{ shape: lin-rect, label: "Journal/Diary/Novel </br> Thoughts/Idea/Talk" }
+    L2@{ shape: lin-rect, label: "Book/RSS/Paper </br> Video/Podcast" }
+    %%T1x: Mind
+    T11(Flomo)
+    T12(Google Keep)
+    %%T2x: Infosource
+    T21(Chrome)
+    T22(Apple Book)
+    T23(Apple Podcasts)
+    %%T24(Zotero)
+    %%T25(PegBoard?)
+
+    subgraph 1[Info-flow]
+        subgraph Mind
+        L1 --> T11 & T12
+        end
+        subgraph Media
+        START:::hidden --> |question|L2
+        START:::hidden --> |motivation|L2
+        START:::hidden --> |fact/opinion|L2
+        L2 --> T21 & T22 & T23
+        end
+    end
+    
+    subgraph 2[Workflow]
+        T(Apple Notes)
+        subgraph FN[Fleeting Notes]
+        tag1@{ shape: notch-rect, label: "#extract"}
+        tag2@{ shape: notch-rect, label: "#draft" }
+        end
+        %%subgraph Prog[Progressive Reading]
+            %%subgraph LN[Literature Notes]
+
+            %%end        
+            subgraph EN[Evergreen Notes]
+            tag3@{ shape: notch-rect, label: "#ref"}
+            tag4@{ shape: notch-rect, label: "#card"}
+            tag5@{ shape: notch-rect, label: "#review"}
+            end
+        %%end
+        subgraph Blog[Publish]
+            %%subgraph Publish[Publish]
+        tag6@{ shape: notch-rect, label: "#blog"}
+            %%end
+        end
+    %% Fleeting Notes
+    T11 & T12 --> tag2
+    T21 & T22 & T23 --> tag1
+    tag1 & tag2 --> T
+
+    %%T --> LN & EN & Publish
+    T --> tag3 & tag4 & tag5 & tag6
+    end
+
+    subgraph 3 [Outflow]
+    %% vscode & GitHub
+    vsCode@{ shape: db, label: "local </br> Markdown </br> Files"}
+    GitHub@{ shape: db, label: "GitHub"}
+    GD(GitHub Desktop)
+    vsCode --> |commit|GD
+    GD --> |pull|GitHub
+    GitHub --> |synchronize|GD
+    GD --> |clone|vsCode
+    end
+    tag3 & tag4 & tag5 & tag6 --> vsCode
+```
+
+### 4.4 工作流总览
+
+```mermaid
+%%{init:{'theme': 'neutral'}}%%
+flowchart TD
+    确定目标@{ shape: stadium, label: "1.确定目标" }
+    subgraph 1[4.学以致用]
+    刻意练习@{ shape: stadium, label: "刻意练习 + MVP" }
+    %%MVP@{ shape: stadium, label: "MVP" }
+    end
+    subgraph 2[2.主动输入]
+    批判性思维@{ shape: stadium, label: "无利不起早 + 批判性思维" }
+    %%无利不起早@{ shape: stadium, label: "无利不起早" }
+    end
+    subgraph 3[3.知识体系]
+    长青笔记@{ shape: procs, label: "长青笔记" }
+    大纲笔记@{ shape: procs, label: "大纲笔记" }
+    临时笔记@{ shape: procs, label: "临时笔记" }
+    direction LR
+        %%长青笔记 --> 大纲笔记
+        %%大纲笔记 --> 长青笔记
+        subgraph 4[层级结构]
+        长青笔记
+        end
+        %%大纲笔记 --> 临时笔记
+        %%临时笔记 --> 大纲笔记
+        subgraph 5[网状结构]
+        临时笔记
+        end
+    %%临时笔记 --> |渐进式阅读|长青笔记
+    4 --> 大纲笔记 --> 5
+    5 --> 大纲笔记 --> 4
+    5 --> |渐进式阅读|4
+
+    end
+确定目标 --> 2 --> 3 --> 1
+```
+
+
+
+### 4.5 对引言的回答
 
 Q1: 哪些内容应该被记录在知识库中？
 

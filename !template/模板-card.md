@@ -1,6 +1,6 @@
 ---
 title: card-@book-model
-author: me
+author:
 ---
 
 ## 1. 核心内容
