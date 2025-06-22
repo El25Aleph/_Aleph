@@ -1,5 +1,5 @@
 ---
-title: 
+title: card-@book-model
 author: me
 ---
 
@@ -27,6 +27,18 @@ author: me
 
 [ref-](/docs/ref-.md)
 
-## 3. 相关链接
+## 3. 批判性思考
+
+### a) 认同
+
+### b) 质疑
+
+## 4. 相关链接
 
 [](/docs/card-.md)
+
+## 5. 行动
+
+- [ ] task1
+
+## 6. 延伸阅读
