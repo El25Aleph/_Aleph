@@ -5,10 +5,9 @@
   background-color:: yellow
 - 00- [[DOING]]
   background-color:: blue
+- [[DONE]]
 - 01-book•movie•music
   background-color:: green
-- [[DONE]]
--
 - 社科类
 	- [[《像高手一样解决问题》]]
 	  query-sort-by:: tags
