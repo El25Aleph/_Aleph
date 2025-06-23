@@ -228,10 +228,10 @@ graph BT
     L3 <==融会贯通==> S3;
     L4 <==学以致用==> S4;
 
-    S1 <===> T7
-    S2 <===> T7
-    S3 <===> T7
-    S4 <===> T7
+    S1 <==物理坐标==> T7
+    S2 <==逻辑坐标==> T7
+    S3 <==认知坐标/zhi'xin度==> T7
+    S4 <==认知坐标/成熟度==> T7
 
     classDef flow fill:red,stroke:red,color:white
     class T7 flow
