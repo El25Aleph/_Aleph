@@ -6,39 +6,6 @@ tags:
 source:
 ---
 
-```mermaid
-graph TD
-%%{init:{'theme': 'neutral'}}%%
-  Issue --> E[Reasoning]
-  A[Reason]
-  B[Assumption]
-  C[Evidence]
-  subgraph D[Grey Thinking]
-  Ambiguous?
-  Fallacy?
-  F[Rival Causes?]
-  G[Omitted Information?]
-  end
-  E --> |What|A
-  E --> |How:implicit|B
-  E --> |How:explicit|C
-  A & B & C --> D --> Conclusion
-```
-
-Critical Thinking 由三部分构成：
-
-- 论题 (Issue)
-- 论证 (Argument)，其依据 (Warrant) 为：
-  - 理由 (Reason)
-  - 证据 (Evidence)
-- 结论 (Conclusion)
-
-Critical Thinking 的最终结果，就是要求一个人：
-
-1. 虚怀若谷地接纳各种观点
-2. 理性而又有理有据地批判这些观点
-3. 在理性判断的基础上决定接受哪些观点或采取哪些行动
-
 ## 论题
 
 >论题是引起对话/讨论的问题/争议，是后续所有讨论的原动力。
