@@ -1,37 +1,31 @@
 ---
-# 1. 来源维度
-sourceType: 
-sourceTitle:
-sourceCreator:
-sourcePublischer:
-sourceDate:
-sourceLink:
-sourceISBN:
-# 2. 管理维度
-cardID:
-createdTime:
-updatedTime:
-version:
-# 3. 关系维度
-parentRef:
-parentNote:
-childCards:
-relatedCards:
-appliedIn:
-# 4. 内容维度
-cardTitle:
-cardType: 
-cardDomain:
-cardKeywords:
-# 5. 认知维度
-maturity:
-lastReviewed:
-confidence:
-knowledgeGaps:
-actionItems:
+01-sourceType: book
+01-sourceTitle: 毫无意义的工作
+01-sourceCreator:
+  - "[美] David Graeber"
+01-sourcePublischer: 中信出版社
+01-sourceDate: 2022-07
+01-sourceLink: 
+01-sourceISBN: "9787521743883"
+02-cardID: 
+02-createdTime: 2024-12-15
+02-updatedTime: 2025-07-04
+02-version: 
+03-parentRef: "[[ref-毫无意义的工作]]"
+03-parentNote: "[[note-毫无意义的工作]]"
+03-childCards: 
+03-relatedCards: 
+03-appliedIn: 
+04-cardTitle: 狗屁工作
+04-cardType: concept
+04-cardDomain: 
+04-cardKeywords: 
+05-maturity: 
+05-lastReviewed: 
+05-confidence: 
+05-knowledgeGaps: 
+05-actionItems:
 ---
-
-
 ## 1. 核心内容
 
 ```mermaid
@@ -58,9 +52,9 @@ block-beta
 
 ## 2. 参考笔记
 
-[note-毫无意义的工作](/docs/note-毫无意义的工作.md)
+[[ref-毫无意义的工作]]
 
-[ref-毫无意义的工作](/docs/ref-毫无意义的工作.md)
+[[note-毫无意义的工作]]
 
 ## 3. 观点评价
 
@@ -92,22 +86,18 @@ block-beta
 
 ## 4. 卡片链接
 
-DeepSeek 说本书的中文版删减了 23 处争议论述，所以英文原版也值得一看
+DeepSeek 说本书的中文版删减了 23 处争议论述，所以英文原版也值得一看。
 
 对比《新教伦理与资本主义》：
 
-| **维度**     | **韦伯《新教伦理》**（1905）        | **格雷伯《狗屁工作》**（2018）       | **思想碰撞**         |
-| :----------- | :---------------------------------- | :----------------------------------- | :------------------- |
-| **劳动价值** | 上帝召唤（Calling）→ 劳动即救赎证明 | 人性创造本能 → 劳动即意义实现        | **神圣性 vs 人本性** |
-| **批判对象** | 传统主义劳动观（够用即止）          | 金融资本主义劳动异化（为钱丧失意义） | **惰性 vs 异化**     |
-| **历史判断** | 资本主义诞生的文化引擎              | 资本主义晚期的癌变病灶               | **助产士 vs 掘墓人** |
-| **解决方案** | 接受“铁笼”（理性化不可避免）        | 打破铁笼（重构意义经济）             | **悲观 vs 激进**     |
+| **维度**   | **韦伯《新教伦理》**（1905）     | **格雷伯《狗屁工作》**（2018） | **思想碰撞**       |
+| :------- | :--------------------- | :------------------ | :------------- |
+| **劳动价值** | 上帝召唤（Calling）→ 劳动即救赎证明 | 人性创造本能 → 劳动即意义实现    | **神圣性 vs 人本性** |
+| **批判对象** | 传统主义劳动观（够用即止）          | 金融资本主义劳动异化（为钱丧失意义）  | **惰性 vs 异化**   |
+| **历史判断** | 资本主义诞生的文化引擎            | 资本主义晚期的癌变病灶         | **助产士 vs 掘墓人** |
+| **解决方案** | 接受“铁笼”（理性化不可避免）        | 打破铁笼（重构意义经济）        | **悲观 vs 激进**   |
 
 关联点：格雷伯痛斥的“劳动神圣化”正是韦伯揭示的**新教伦理幽灵**——当“工作即美德”脱离宗教根基，异化成压迫现代人的道德枷锁。
-
-
-
-[](/docs/card-.md)
 
 ## 5. 行动
 
@@ -120,16 +110,13 @@ DeepSeek 说本书的中文版删减了 23 处争议论述，所以英文原版�
   - 差异点：韩炳哲聚焦功绩社会自我剥削
 
 - 《工作、消费主义和新穷人》
-
   - 关联点：劳动伦理批判
-
   - 差异点：鲍曼强调制度性弃民制造
 
 - 《优秀绵羊》
-
   - 关联点：精英教育制造“高级打手”
-
   - 差异点：教育系统前段批判
 
 - 《规训与惩罚》by 米歇尔·福柯
+
 - 《新教伦理与资本主义》

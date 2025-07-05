@@ -30,7 +30,6 @@ confidence:
 knowledgeGaps:
 actionItems:
 ---
-
 ## 1. 核心内容
 
 ```mermaid
@@ -70,3 +69,5 @@ actionItems:
 - [ ] task1
 
 ## 6. 延伸阅读
+
+[^1]: 

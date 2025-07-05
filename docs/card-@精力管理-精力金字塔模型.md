@@ -7,6 +7,32 @@ title: @精力管理-精力金字塔模型
 ## 1\. 核心内容
 
 ```mermaid
+---
+config:
+    theme: 'neutral'
+---
+block-beta
+columns 7
+space:3 意志 space:3 
+space:7
+space:7
+space:2 思维:3 space:2 
+space:7
+space:7
+space 情绪:5 space 
+space:7
+space:7
+体能:7 
+
+意志 --"明确目标"--> 思维
+思维 --"正视现实"--> 情绪
+情绪 --"付诸行动"--> 体能
+
+```
+
+精力通过仪式习惯进行管理：
+
+```mermaid
 block-beta
 %%{init: {'theme':'neutral'}}%%
 columns 5
