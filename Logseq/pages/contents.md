@@ -1,3 +1,4 @@
+- [[DONE]]
 - 00- [[LATER]]
   background-color:: red
 - 00- [[TODO]]
@@ -5,7 +6,6 @@
   background-color:: yellow
 - 00- [[DOING]]
   background-color:: blue
-- [[DONE]]
 - 01-book•movie•music
   background-color:: green
 - 社科类
@@ -35,6 +35,7 @@
 	- [[《旧制度与大革命》]]
 	- [[《新教伦理与资本主义》]]
 - 科学类
+  collapsed:: true
 	- [[《简单的逻辑学》]]
 	- [[《学会提问》]]
 	- [[《谈谈方法》]]
@@ -71,3 +72,9 @@
 		- [[性/催产素]]
 - 03-[[daily]]
   background-color:: gray
+- 04- card
+	- [[血酬定律]]
+	- [[精力金字塔]]
+	- [[刻意练习]]
+	- [[狗屁工作]]
+	- [[4S]]

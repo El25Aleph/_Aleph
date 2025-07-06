@@ -423,4 +423,6 @@
  :feature/enable-flashcards? false
  :graph/settings {:journal? false
  :orphan-pages? false
- :excluded-pages? false}}
+ :excluded-pages? true}
+ :graph/forcesettings {:link-dist 80
+ :charge-range 1700}}
