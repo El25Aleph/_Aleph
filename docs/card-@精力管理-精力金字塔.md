@@ -57,9 +57,9 @@ columns 5
 
 ## 2\. 参考笔记
 
-[note-精力管理](/docs/note-%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86.md "note-精力管理")
+[note-精力管理](note-精力管理)
 
-[ref-精力管理](/docs/ref-%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86.md "ref-精力管理")
+[ref-精力管理](ref-精力管理)
 
 ## 3. 批判性思考
 
@@ -84,7 +84,7 @@ columns 5
 
 ## 4. 卡片链接
 
-[心理表征](/docs/card-@%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0-%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0%E6%A8%A1%E5%9E%8B.md "心理表征")
+[心理表征](card-@刻意练习-刻意练习)
 
 ## 5. 行动
 

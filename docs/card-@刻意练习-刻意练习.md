@@ -43,9 +43,9 @@ flowchart TB
 
 ## 2\. 参考笔记
 
-[note-刻意练习](/docs/note-%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.md "note-刻意练习")
+[note-刻意练习](note-刻意练习)
 
-[ref-刻意练习](/docs/ref-%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0.md "ref-刻意练习")
+[ref-刻意练习](ref-刻意练习)
 
 ## 3. 批判性思考
 
@@ -84,7 +84,7 @@ flowchart TB
 
 ## 4. 卡片链接
 
-[仪式习惯](/docs/card-@%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86-%E7%B2%BE%E5%8A%9B%E9%87%91%E5%AD%97%E5%A1%94%E6%A8%A1%E5%9E%8B.md "仪式习惯")
+[仪式习惯](card-@精力管理-精力金字塔)
 
 ## 5. 行动
 

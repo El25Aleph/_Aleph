@@ -126,9 +126,9 @@ gitGraph TB:
 
 ## 2\. 参考笔记
 
-[note-置身事内：中国政府与经济发展](/docs/note-%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95.md "note-置身事内：中国政府与经济发展")
+[note-置身事内：中国政府与经济发展](note-置身事内：中国政府与经济发展)
 
-[ref-置身事内：中国政府与经济发展](/docs/ref-%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95.md "ref-置身事内：中国政府与经济发展")
+[ref-置身事内：中国政府与经济发展](ref-置身事内：中国政府与经济发展)
 
 ## 3. 批判性思考
 

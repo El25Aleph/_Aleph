@@ -1,30 +1,5 @@
 ---
-01-sourceType: book
-01-sourceTitle: 毫无意义的工作
-01-sourceCreator:
-  - "[美] David Graeber"
-01-sourcePublischer: 中信出版社
-01-sourceDate: 2022-07
-01-sourceLink: 
-01-sourceISBN: "9787521743883"
-02-cardID: 
-02-createdTime: 2024-12-15
-02-updatedTime: 2025-07-04
-02-version: 
-03-parentRef: "[[ref-毫无意义的工作]]"
-03-parentNote: "[[note-毫无意义的工作]]"
-03-childCards: 
-03-relatedCards: 
-03-appliedIn: 
-04-cardTitle: 狗屁工作
-04-cardType: concept
-04-cardDomain: 
-04-cardKeywords: 
-05-maturity: 
-05-lastReviewed: 
-05-confidence: 
-05-knowledgeGaps: 
-05-actionItems:
+date: 2024-12-15
 ---
 ## 1. 核心内容
 
@@ -52,9 +27,9 @@ block-beta
 
 ## 2. 参考笔记
 
-[[ref-毫无意义的工作]]
+[ref-毫无意义的工作](ref-毫无意义的工作)
 
-[[note-毫无意义的工作]]
+[note-毫无意义的工作](note-毫无意义的工作)
 
 ## 3. 观点评价
 
