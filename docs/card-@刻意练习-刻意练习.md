@@ -43,9 +43,9 @@ flowchart TB
 
 ## 2\. 参考笔记
 
-[note-刻意练习](note-刻意练习)
+[note-刻意练习](note-刻意练习.md)
 
-[ref-刻意练习](ref-刻意练习)
+[ref-刻意练习](ref-刻意练习.md)
 
 ## 3. 批判性思考
 

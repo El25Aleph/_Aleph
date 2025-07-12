@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/ref-请不要神化双链笔记-少数派.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ref-请不要神化双链笔记-少数派"
             }
           }
         ]
@@ -94,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/ref-请不要神化双链笔记-少数派.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "ref-请不要神化双链笔记-少数派 的反向链接列表"
             }
           },
           {
@@ -183,13 +194,11 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,33 +213,33 @@
   },
   "active": "64b82b3d9a4477a3",
   "lastOpenFiles": [
-    "docs/!review-PKM.md",
+    "docs/ref-认知训练模型.md",
+    "docs/blog-我的知识管理-笔记篇.md",
+    "docs/ref-三种卡片类型.md",
+    "docs/blog-@review-我的知识管理-最小可行性系统回顾.md",
+    "docs/blog-@review-我的知识管理-2025上半年回顾.md",
+    "docs/card-5am-project.md",
     "docs/card-@置身事内-中国政府与经济发展.md",
+    "docs/card-@血酬定律-潜规则-血酬定律.md",
+    "docs/card-@学会提问-批判性思维.md",
+    "docs/card-@像高手一样解决问题-4S.md",
+    "docs/card-@谈谈方法-Cogito.md",
+    "docs/card-@内向者沟通圣经-4P.md",
+    "docs/card-@刻意练习-刻意练习.md",
+    "docs/card-@精力管理-精力金字塔.md",
+    "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
+    "docs/card-@毫无意义的工作-狗屁工作.md",
+    "docs/!review-PKM.md",
     "docs/!review-社会科学.md",
     "docs/!review-问题解决.md",
     "docs/!review-自我管理.md",
-    "docs/card-@精力管理-精力金字塔.md",
-    "docs/card-@毫无意义的工作-狗屁工作.md",
+    "README.md",
     "docs/ref-请不要神化双链笔记-少数派.md",
     "docs/card-渐进式阅读.md",
-    "docs/card-@血酬定律-潜规则-血酬定律.md",
-    "docs/card-5am-project.md",
-    "docs/card-@内向者沟通圣经-4P.md",
-    "README.md",
-    "docs/card-@谈谈方法-Cogito.md",
-    "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
-    "docs/card-@学会提问-批判性思维.md",
-    "docs/card-@像高手一样解决问题-4S.md",
     "@card-像高手一样解决问题-4S.md",
-    "docs/card-@刻意练习-刻意练习.md",
     "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
     "docs/blog-@强风吹拂-何谓强大.md",
-    "docs/ref-如何管理笔记的元数据.md",
     "未命名.canvas",
-    "docs/ref-潜规则-血酬定律-我想重新解释历史.md",
-    "docs/blog-@review-我的知识管理-2025上半年回顾.md",
-    "docs/ref-把阅读作为方法：从选书到笔记的经验分享.md",
-    "docs/ref-三种卡片类型.md",
     "!template",
     "template",
     "Logseq/logseq/bak/journals/2025_04_20",
