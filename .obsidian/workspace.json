@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e4c0fe53b0b61696",
+        "id": "5642a929cf3d81a1",
         "type": "tabs",
         "children": [
           {
-            "id": "345a559c950e4c03",
+            "id": "64b82b3d9a4477a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#中国政府",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "b6b068a9de65901a",
+            "id": "2ac4894eece4b16b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/card-@毫无意义的工作-狗屁工作模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "card-@毫无意义的工作-狗屁工作模型 的大纲"
             }
           },
           {
@@ -157,42 +162,78 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "0e9ddd51348dceb6",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "2ad494a89517f333",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "templates:插入模板": false,
+      "templates:插入模板": true,
       "command-palette:打开命令面板": false,
+      "daily-notes:打开/创建今天的日记": true,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "7708f8105527e374",
+  "active": "64b82b3d9a4477a3",
   "lastOpenFiles": [
-    "docs/card-@血酬定律-潜规则-血酬定律模型.md",
-    "docs/card-@精力管理-精力金字塔模型.md",
-    "README.md",
-    "docs/blog-我的知识管理-工具篇.md",
-    "docs/blog-我的知识管理-认知篇.md",
+    "docs/!review-PKM.md",
+    "docs/card-@置身事内-中国政府与经济发展.md",
+    "docs/!review-社会科学.md",
+    "docs/!review-问题解决.md",
+    "docs/!review-自我管理.md",
+    "docs/card-@精力管理-精力金字塔.md",
+    "docs/card-@毫无意义的工作-狗屁工作.md",
+    "docs/ref-请不要神化双链笔记-少数派.md",
     "docs/card-渐进式阅读.md",
-    "docs/card-@刻意练习-刻意练习模型.md",
-    "Logseq/logseq/bak/journals/2025_04_23/2025-06-17T21_02_32.178Z.Desktop.md",
-    "Logseq/logseq/bak/journals/2025_04_20/2025-06-17T21_02_32.189Z.Desktop.md",
+    "docs/card-@血酬定律-潜规则-血酬定律.md",
+    "docs/card-5am-project.md",
+    "docs/card-@内向者沟通圣经-4P.md",
+    "README.md",
+    "docs/card-@谈谈方法-Cogito.md",
+    "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
+    "docs/card-@学会提问-批判性思维.md",
+    "docs/card-@像高手一样解决问题-4S.md",
+    "@card-像高手一样解决问题-4S.md",
+    "docs/card-@刻意练习-刻意练习.md",
+    "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
+    "docs/blog-@强风吹拂-何谓强大.md",
+    "docs/ref-如何管理笔记的元数据.md",
+    "未命名.canvas",
+    "docs/ref-潜规则-血酬定律-我想重新解释历史.md",
+    "docs/blog-@review-我的知识管理-2025上半年回顾.md",
+    "docs/ref-把阅读作为方法：从选书到笔记的经验分享.md",
+    "docs/ref-三种卡片类型.md",
+    "!template",
+    "template",
     "Logseq/logseq/bak/journals/2025_04_20",
-    "Logseq/logseq/bak/journals/2025_04_19/2025-06-17T21_02_32.186Z.Desktop.md",
-    "Logseq/logseq/bak/journals/2025_04_19",
-    "Logseq/journals/2025_06_17.md",
-    "Logseq/logseq/bak/pages/性/2025-05-16T17_49_59.639Z.Desktop.md",
-    "docs/card-@置身事内-中国政府与经济发展模型.md",
-    "docs/ref-置身事内：中国政府与经济发展.md",
-    "docs/blog-我的知识管理-笔记篇.md"
+    "Logseq/logseq/bak/journals/2025_04_19"
   ]
 }
