@@ -51,16 +51,21 @@ kanban
 ## 2025-07-12
 
 截止今天，我一共产出了 49 篇笔记：
+
 - 6 篇 blog
 - 12 篇 card
 - 8 篇 note
 - 23 篇 ref
+
 我把这 49 篇笔记系统地进行了分类，分别放在四个 review 中：
+
 - PKM
 - 社会可续
 - 问题解决
 - 自我管理
+
 于是，现在笔记变得有结构了起来：
+
 - README 中放所有 review
 - review 中放同类型的 card/blog
 - review 的作用有两种：

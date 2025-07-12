@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ref-请不要神化双链笔记-少数派.md",
+                "file": "docs/!review-社会科学.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ref-请不要神化双链笔记-少数派"
+              "title": "!review-社会科学"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ref-请不要神化双链笔记-少数派.md",
+                "file": "docs/!review-社会科学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ref-请不要神化双链笔记-少数派 的反向链接列表"
+              "title": "!review-社会科学 的反向链接列表"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/card-@毫无意义的工作-狗屁工作模型.md",
+                "file": "docs/!review-社会科学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "card-@毫无意义的工作-狗屁工作模型 的大纲"
+              "title": "!review-社会科学 的大纲"
             }
           },
           {
@@ -194,11 +194,13 @@
               "title": "Juggl style"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +215,10 @@
   },
   "active": "64b82b3d9a4477a3",
   "lastOpenFiles": [
+    "docs/!review-问题解决.md",
+    "docs/!review-自我管理.md",
+    "docs/!review-PKM.md",
+    "docs/ref-请不要神化双链笔记-少数派.md",
     "docs/ref-认知训练模型.md",
     "docs/blog-我的知识管理-笔记篇.md",
     "docs/ref-三种卡片类型.md",
@@ -229,12 +235,8 @@
     "docs/card-@精力管理-精力金字塔.md",
     "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
     "docs/card-@毫无意义的工作-狗屁工作.md",
-    "docs/!review-PKM.md",
     "docs/!review-社会科学.md",
-    "docs/!review-问题解决.md",
-    "docs/!review-自我管理.md",
     "README.md",
-    "docs/ref-请不要神化双链笔记-少数派.md",
     "docs/card-渐进式阅读.md",
     "@card-像高手一样解决问题-4S.md",
     "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
