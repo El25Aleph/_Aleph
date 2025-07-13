@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/!review-社会科学.md",
-                "mode": "source",
+                "file": "docs/ref-博弈论与生活.md",
+                "mode": "preview",
                 "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "!review-社会科学"
+              "title": "ref-博弈论与生活"
             }
           }
         ]
@@ -104,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/!review-社会科学.md",
+                "file": "docs/ref-博弈论与生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "!review-社会科学 的反向链接列表"
+              "title": "ref-博弈论与生活 的反向链接列表"
             }
           },
           {
@@ -151,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/!review-社会科学.md",
+                "file": "docs/ref-博弈论与生活.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "!review-社会科学 的大纲"
+              "title": "ref-博弈论与生活 的大纲"
             }
           },
           {
@@ -194,8 +185,7 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,6 +205,8 @@
   },
   "active": "64b82b3d9a4477a3",
   "lastOpenFiles": [
+    "docs/ref-博客十年.md",
+    "docs/!review-社会科学.md",
     "docs/!review-问题解决.md",
     "docs/!review-自我管理.md",
     "docs/!review-PKM.md",
@@ -235,12 +227,10 @@
     "docs/card-@精力管理-精力金字塔.md",
     "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
     "docs/card-@毫无意义的工作-狗屁工作.md",
-    "docs/!review-社会科学.md",
     "README.md",
     "docs/card-渐进式阅读.md",
     "@card-像高手一样解决问题-4S.md",
     "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
-    "docs/blog-@强风吹拂-何谓强大.md",
     "未命名.canvas",
     "!template",
     "template",
