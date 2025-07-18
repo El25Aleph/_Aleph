@@ -8,7 +8,7 @@ aliases:
   - 个人知识库管理
 ---
 
-很受用的一段话，来自 https://sspai.com/post/78133
+置顶一段很受用的话，来自 https://sspai.com/post/78133
 
 ><mark>我们往往低估了长期影响，而高估了短期影响。</mark>
 >
