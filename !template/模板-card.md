@@ -50,9 +50,9 @@ actionItems:
 
 ## 2. 参考笔记
 
-[note-](/docs/note-.md)
+[note-](note-.md)
 
-[ref-](/docs/ref-.md)
+[ref-](ref-.md)
 
 ## 3. 批判性思考
 
