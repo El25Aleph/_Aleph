@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5642a929cf3d81a1",
+        "id": "ed33c8f403ecd964",
         "type": "tabs",
         "children": [
           {
-            "id": "64b82b3d9a4477a3",
+            "id": "26bd377ad954bea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ref-博弈论与生活.md",
+                "file": "docs/note-学会提问.md",
                 "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ref-博弈论与生活"
+              "title": "note-学会提问"
+            }
+          },
+          {
+            "id": "10c036f2e6f7ead4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-25 22.23.01.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/ref-博弈论与生活.md",
+                "file": "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ref-博弈论与生活 的反向链接列表"
+              "title": "Drawing 2025-07-25 22.23.01.excalidraw 的反向链接列表"
             }
           },
           {
@@ -195,20 +207,36 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
+      "graph:查看关系图谱": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "daily-notes:打开/创建今天的日记": true,
       "canvas:新建白板": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": true,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "64b82b3d9a4477a3",
+  "active": "10c036f2e6f7ead4",
   "lastOpenFiles": [
+    "Test.canvas",
+    "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md",
+    "Excalidraw",
+    "docs/ref-二语习得.md",
+    "docs/note-学会提问.md",
     "docs/ref-博客十年.md",
+    "docs/ref-滚床单心理学.md",
+    "docs/ref-打造个人工作流-认知篇.md",
+    "docs/card-@置身事内-中国政府与经济发展.md",
+    "README.md",
+    "pdf/Influence_of_Magnetic_Coupling_Effects_between_Load_and_Gate_Commutation_Loop_on_the_Short_Circuit_Behavior.pdf",
+    "docs/!review-自我管理.md",
+    "docs/ref-moneyXYZ谈读书的意义.md",
+    "pdf/PKM-ref-把阅读作为方法：从选书到笔记的经验分享 - 少数派.pdf",
+    "pdf/MA_Bo.pdf",
+    "docs/ref-博弈论与生活.md",
     "docs/!review-社会科学.md",
     "docs/!review-问题解决.md",
-    "docs/!review-自我管理.md",
     "docs/!review-PKM.md",
     "docs/ref-请不要神化双链笔记-少数派.md",
     "docs/ref-认知训练模型.md",
@@ -217,21 +245,10 @@
     "docs/blog-@review-我的知识管理-最小可行性系统回顾.md",
     "docs/blog-@review-我的知识管理-2025上半年回顾.md",
     "docs/card-5am-project.md",
-    "docs/card-@置身事内-中国政府与经济发展.md",
     "docs/card-@血酬定律-潜规则-血酬定律.md",
     "docs/card-@学会提问-批判性思维.md",
     "docs/card-@像高手一样解决问题-4S.md",
     "docs/card-@谈谈方法-Cogito.md",
-    "docs/card-@内向者沟通圣经-4P.md",
-    "docs/card-@刻意练习-刻意练习.md",
-    "docs/card-@精力管理-精力金字塔.md",
-    "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
-    "docs/card-@毫无意义的工作-狗屁工作.md",
-    "README.md",
-    "docs/card-渐进式阅读.md",
-    "@card-像高手一样解决问题-4S.md",
-    "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
-    "未命名.canvas",
     "!template",
     "template",
     "Logseq/logseq/bak/journals/2025_04_20",
