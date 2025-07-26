@@ -196,13 +196,23 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "ca2ba204e1e74ac4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +229,11 @@
   },
   "active": "10c036f2e6f7ead4",
   "lastOpenFiles": [
-    "Test.canvas",
+    "docs/ref-君主论.md",
     "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md",
+    "docs/ref-如何管理笔记的元数据.md",
+    "docs/ref-moneyXYZ谈读书的意义.md",
+    "Test.canvas",
     "Excalidraw",
     "docs/ref-二语习得.md",
     "docs/note-学会提问.md",
@@ -231,7 +244,6 @@
     "README.md",
     "pdf/Influence_of_Magnetic_Coupling_Effects_between_Load_and_Gate_Commutation_Loop_on_the_Short_Circuit_Behavior.pdf",
     "docs/!review-自我管理.md",
-    "docs/ref-moneyXYZ谈读书的意义.md",
     "pdf/PKM-ref-把阅读作为方法：从选书到笔记的经验分享 - 少数派.pdf",
     "pdf/MA_Bo.pdf",
     "docs/ref-博弈论与生活.md",
@@ -248,7 +260,6 @@
     "docs/card-@血酬定律-潜规则-血酬定律.md",
     "docs/card-@学会提问-批判性思维.md",
     "docs/card-@像高手一样解决问题-4S.md",
-    "docs/card-@谈谈方法-Cogito.md",
     "!template",
     "template",
     "Logseq/logseq/bak/journals/2025_04_20",
