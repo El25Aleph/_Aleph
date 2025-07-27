@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "fd4befba5d699e2a",
@@ -225,10 +224,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d52b81c7d7339340",
+  "active": "e8ad8e80a9ec63b2",
   "lastOpenFiles": [
-    "docs/blog-我的知识管理-纸质记录篇.md",
     "docs/!review-PKM.md",
+    "docs/blog-我的知识管理-纸质记录篇.md",
     "docs/blog-我的知识管理-笔记篇.md",
     "docs/blog-@review-我的知识管理-2025上半年回顾.md",
     "docs/blog-@review-我的知识管理-最小可行性系统回顾.md",
