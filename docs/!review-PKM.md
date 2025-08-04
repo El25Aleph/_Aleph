@@ -109,12 +109,12 @@ kanban
 
 1. 白板类：使用插件 Excalidraw (以及高阶版的 Excalibrain)
 2. 使用笔记作为 MOC, 在笔记中插入：
-	- 使用插件插入 markmap 代码
-	- 插入 mermaid 代码
+	- markmap 代码
+	- mermaid 代码
 	- 使用插件把 markdown 笔记当作 mindmap 查看
 	- 表格
 
-根据上面的标准，对这些方法进行打分：
+根据前面提到的两点的标准，对这些方法进行打分：
 
 | 展现难度    | 白板类 | 思维导图 | mermaid | 表格   |
 | ------- | --- | ---- | ------- | ---- |
