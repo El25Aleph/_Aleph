@@ -1,4 +1,0 @@
-- author:
-  tags:
-  source: [](file://)
-  ---
