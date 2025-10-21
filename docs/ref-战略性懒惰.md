@@ -52,18 +52,62 @@ date: 2025-10-21
 
 ### f) Building System vs. Setting Goals
 
+|          | Setting Goals | Building System |
+|----------|---------------|-----------------|
+| When     | Future        | Now             |
+| Who      | Amateurs      | Professionals   |
+| Archieve | Once          | Forever         |
+| Guidance | No            | Yes             |
+
+视频中还给出了几个实例：
+
+- 目标：写书；系统：设计一个每天可以写 500 字的系统
+- 目标：保持身材；系统：设计一个每天最小阻力进入健身房的系统
+
 ### g) Minimum Effctive Dose for Maximum Results
+
+- MED （最小剂量）即边际效应，是最佳杠杆点：用最小的输入创造最大的预期产出
+- 本质 (Essence) 是 Working **smarter**, not working harder
 
 ### h) Leveraging Others
 
+- 认识到别人什么时候可以做什么事，然后有效地进行分配 (Effecitive Delegation), 这被称作战略资源配置 (Strategic Resource Allocation)
+- 委派后重视结果而非过程，给予他人自主权，让他们用自己的方式去解决问题
+
 ### i) Creating Assets That Work While You Sleep 
 
+> True leverage comes from creating assets that generate value without your active involvement
+
+真正的杠杆不是用时间换取金钱，而是以最小的维护成本，源源不断的创造资产
+
+资产 (Assets) 的定义是：
+
+- Knowledge
+- Skill
+- Interest
+
 ### j) The Strategic Efficiency Lifestyle 
+
+生活哲学 (Life Philosophy) 包含三个关键词：
+
+- Value （价值）
+- Leverage（杠杆）
+- Automation（自动化）
+
+为了实现这样的生活哲学，可以从四个维度着手：
+
+- 战略性 + 系统性地思考
+- 最小化决策
+- 设计阻力最小的环境
+- 最小有效剂量
 
 ## 2. 观点梳理
 
 ### a) 同意
 
+再次提到了二八法则，有人说没有那 80% 不重要的，又如何能分辨出 20% 重要的事情呢？
+对此我想说，在做之前，没有人知道做多少会有期望产出，但是我们要不断地追问：究竟是哪 20% 才是最重要的，这样能让我们始终专注在最重要的事情上
 
+最小有效剂量的概念与 [最小可行性系统 (MVP)](ref-认知训练模型.md) 相似
 
 ### b) 质疑
