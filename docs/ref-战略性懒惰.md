@@ -6,7 +6,7 @@ date: 2025-10-21
 
 ## 1. 内容摘抄
 
-[B 站]([https://www.bilibili.com/video/BV1KDdUYbEB2?spm_id_from=333.788.videopod.sections&vd_source=bfb2e50dad8e670124c382656b85473e](https://www.bilibili.com/video/BV1AEZJY1EeJ/?spm_id_from=333.337.search-card.all.click&vd_source=bfb2e50dad8e670124c382656b85473e))有搬运视频，搭配机翻。
+[B 站](https://www.bilibili.com/video/BV1AEZJY1EeJ/?spm_id_from=333.337.search-card.all.click&vd_source=bfb2e50dad8e670124c382656b85473e)有搬运视频，搭配机翻。
 
 ### a) 引言
 
