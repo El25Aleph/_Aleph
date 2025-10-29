@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed33c8f403ecd964",
+        "id": "7d876767f8c0809b",
         "type": "tabs",
         "children": [
           {
-            "id": "d52b81c7d7339340",
+            "id": "856f750ffab6e043",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md"
+                "file": "docs/ref-人性矩阵系列-矩阵之外-01-皮质醇.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-25 22.23.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "ref-人性矩阵系列-矩阵之外-01-皮质醇"
             }
           }
         ]
@@ -192,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": true,
@@ -203,8 +206,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d52b81c7d7339340",
+  "active": "856f750ffab6e043",
   "lastOpenFiles": [
+    "docs/ref-人性矩阵系列-矩阵之外-02-雌激素和孕激素.md",
+    "docs/ref-人性矩阵系列-矩阵之外-03-潜意识与15种分子.md",
+    "docs/ref-人性矩阵系列-矩阵之外-01-皮质醇.md",
+    "docs/ref-认知训练模型.md",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_20-13-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_20-03-24.backup.json",
@@ -215,7 +222,6 @@
     "Excalidraw/backup_project-graph/2025-7-27_19-13-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_19-03-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_18-53-24.backup.json",
-    "Excalidraw/backup_project-graph/2025-7-27_18-43-24.backup.json",
     "docs/card-@精力管理-精力金字塔.md",
     "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md",
     "docs/!review-PKM.md",
@@ -238,9 +244,6 @@
     "docs/ref-君主论.md",
     "excalibrain.md",
     "Excalidraw/ExcaliBrain Snapshot - !review-PKM.excalidraw.md",
-    "docs/note-学会提问.md",
-    "docs/ref-如何管理笔记的元数据.md",
-    "docs/ref-moneyXYZ谈读书的意义.md",
     "Test.canvas"
   ]
 }
