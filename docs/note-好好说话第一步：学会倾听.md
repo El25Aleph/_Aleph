@@ -183,4 +183,100 @@ meta-communication 这个概念在[沟通圣经](note-沟通圣经.md)中也有�
 
 ### Chap 7. 倾听的核心：暂时搁置自己的需求
 
+这一章将前几章讨论的心理障碍（内在期待、防卫性）转化为具体可操作的技巧，即专注、确认和认可，共同构建了反应式倾听的基石
+
+### i) 如何专注 (Foucus)
+
+-  搁置分心的事
+- 不思考自己的反应
+- 主动把握对方的“要求”或情感宣泄
+
+- 刻意努力
+- 如果无法专注，要诚实地告诉对方，我现在真的不能专心听你说话
+- 倾听绝不是被动接收器，而是主动、开放、询问，并配合对方步调的过程
+
+### ii) 如何确认 (Confirmation)
+
+- 用自己的话重述对方论点，请对方更正或确定，目的是为了让对方情感得到充分宣泄和更详尽表达
+- 重述的关键在于提问，让对方知道你正在努力了解，而不是你已经知道
+- 避免使用封闭式陈述（如“我知道了”、“我曾经也碰到过相同的情况”）来切断对话
+
+### iii) 如何认可 (Recognition)
+
+- 开启话题后，在表明自己的看法之前，先让对方说说他的观点
+-  认可意味着提供深度了解的联结桥梁，而非肤浅的同情
+- 即使你不同意对方的观点，也要先表达对对方观点的接纳，这有助于对方感到被了解，并更有意愿听你的看法
+
+### iv) 如何面对冲突
+
+- 说出自己的感受（什么困扰着我们，期待什么）
+- 不需要为别人的感受负责，只需要去察觉/了解
+
 ### Chap 9. 如何化解情绪化反应
+
+无
+
+## 2. 模型总结
+
+```mermaid
+flowchart TD
+
+    subgraph 1[I. 沟通的本质]
+        direction TB
+        A1(显性信息) --- A2(Report)
+        B1(隐性信息) --- B2(Command)
+    end
+
+    subgraph 2[II. 倾听障碍]
+        direction TB
+        D{Command </br>遭受阻碍};
+        D --> E1[内在期望/次人格];
+        D --> E2[情绪扳机/焦虑];
+        E1 --> F1[移情：预设负面态度];
+        E2 --> F2[反移情：过度反应/抢夺话语权];
+        F1 & F2 --> G{结果: </br>沟通瓦解/陷入争论};
+    end
+   
+    subgraph 3[III. Suspending Command]
+        direction TB
+        H{反应式倾听};
+        H --> I1["行动 1: 专注 (Focus)"];
+        H --> I2["行动 2: 确认 (Confirmation) </br>重述/提问"];
+        H --> I3["行动 3: 认可 (Recognition) </br>接纳对方观点"];
+    end
+
+    subgraph 4[IV. Fullfill Command]
+        direction TB
+        J[价值];
+        J --NVC--> K["N穿透立场 </br>发现普遍需要"];
+        J --4P法则--> L["容忍焦虑 </br>掌握对话节奏"];
+        M[目的] --> M1[观点得到充分表达];
+        M[目的] --> M2[情感得到充分宣泄];
+    end
+
+1 --> 2 --> 3 --> 4
+```
+
+可以看出，关键词为 Command, 因此可以把这个模型简化为：
+
+```mermaid
+flowchart TD
+direction BT
+A{Command}
+    
+    subgraph 1[ ]
+        direction TB
+        Subpersonalities --> Tranference
+        B["Emo. Trigger"] --> Countertransference
+    end
+
+    subgraph 2[ ]
+        direction TB
+        C["Responsive Listening"]
+        C --> Focus & Confirmation & Recognition
+    end
+
+A --Breakdown--> 1
+2 --Fullfill--> A
+```
+
