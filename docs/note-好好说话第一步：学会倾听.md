@@ -276,7 +276,14 @@ A{Command}
         C --> Focus & Confirmation & Recognition
     end
 
+    subgraph 3[ ]
+        direction BT
+        Value --> NVC & 4P
+        Goal --> Opinion & Emo
+    end
+
 A --Breakdown--> 1
-2 --Fullfill--> A
+A --Supsending--> 2
+3 --Fullfill--> A
 ```
 
