@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ff50544ac70b25b",
+            "id": "33c9fef7cb0ee44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ref-将纸质书籍转化为行动.md",
+                "file": "docs/blog-PKM-合订本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ref-将纸质书籍转化为行动"
-            }
-          },
-          {
-            "id": "1f06d56445a3af2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/card-@像高手一样解决问题-4S.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "card-@像高手一样解决问题-4S"
-            }
-          },
-          {
-            "id": "1cd8eb79731b9667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "card-@简单的逻辑学-经典逻辑学四大定律"
+              "title": "blog-PKM-合订本"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(思考，快与慢)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,11 +206,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1f06d56445a3af2e",
+  "active": "33c9fef7cb0ee44c",
   "lastOpenFiles": [
-    "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
+    "docs/ref-如何管理笔记的元数据.md",
+    "docs/blog-PKM-合订本.md",
     "docs/card-@像高手一样解决问题-4S.md",
     "docs/ref-将纸质书籍转化为行动.md",
+    "docs/ref-认知训练模型.md",
+    "docs/card-@简单的逻辑学-经典逻辑学四大定律.md",
     "docs/ref-学生思维.md",
     "docs/ref-战略性懒惰.md",
     "docs/ref-长尾理论.md",
@@ -253,12 +226,9 @@
     "docs/blog-转岗复盘.md",
     "docs/ref-DS-内部换岗建议.md",
     "blog-我的知识管理-再谈笔记构建.md",
-    "docs/ref-如何管理笔记的元数据.md",
     "docs/ref-三种卡片类型.md",
-    "docs/ref-认知训练模型.md",
     "docs/ref-人性矩阵系列-01-基因.md",
     "未命名.base",
-    "docs/blog-PKM-合订本.md",
     "docs/blog-我的知识管理-纸质记录篇.md",
     "docs/!review-问题解决.md",
     "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
