@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d876767f8c0809b",
+        "id": "91d5febce0605a3d",
         "type": "tabs",
         "children": [
           {
-            "id": "856f750ffab6e043",
+            "id": "7ff50544ac70b25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ref-人性矩阵系列-矩阵之外-01-皮质醇.md",
+                "file": "docs/blog-转岗复盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ref-人性矩阵系列-矩阵之外-01-皮质醇"
+              "title": "blog-转岗复盘"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/!review-PKM.md",
+                "file": "docs/blog-转岗复盘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "!review-PKM 的大纲"
+              "title": "blog-转岗复盘 的大纲"
             }
           },
           {
@@ -197,7 +197,7 @@
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": true,
+      "graph:查看关系图谱": false,
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "daily-notes:打开/创建今天的日记": true,
@@ -206,12 +206,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "856f750ffab6e043",
+  "active": "7ff50544ac70b25b",
   "lastOpenFiles": [
+    "docs/ref-DS-内部换岗建议.md",
+    "docs/blog-转岗复盘.md",
+    "blog-我的知识管理-再谈笔记构建.md",
+    "docs/ref-如何管理笔记的元数据.md",
+    "docs/ref-三种卡片类型.md",
+    "docs/ref-认知训练模型.md",
+    "docs/ref-人性矩阵系列-01-基因.md",
+    "未命名.base",
+    "docs/blog-PKM-合订本.md",
+    "docs/blog-我的知识管理-纸质记录篇.md",
+    "docs/!review-问题解决.md",
+    "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
+    "docs/ref-打造个人工作流-认知篇.md",
+    "docs/ref-打造个人工作流-系统篇.md",
+    "docs/ref-内向者沟通圣经.md",
+    "docs/ref-像高手一样解决问题.md",
+    "docs/ref-人性矩阵系列-矩阵之外-01-皮质醇.md",
     "docs/ref-人性矩阵系列-矩阵之外-02-雌激素和孕激素.md",
     "docs/ref-人性矩阵系列-矩阵之外-03-潜意识与15种分子.md",
-    "docs/ref-人性矩阵系列-矩阵之外-01-皮质醇.md",
-    "docs/ref-认知训练模型.md",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_20-13-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_20-03-24.backup.json",
@@ -221,29 +236,14 @@
     "Excalidraw/backup_project-graph/2025-7-27_19-23-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_19-13-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_19-03-24.backup.json",
-    "Excalidraw/backup_project-graph/2025-7-27_18-53-24.backup.json",
     "docs/card-@精力管理-精力金字塔.md",
     "Excalidraw/Drawing 2025-07-25 22.23.01.excalidraw.md",
     "docs/!review-PKM.md",
-    "docs/blog-我的知识管理-纸质记录篇.md",
     "docs/blog-我的知识管理-笔记篇.md",
     "docs/blog-@review-我的知识管理-2025上半年回顾.md",
     "docs/blog-@review-我的知识管理-最小可行性系统回顾.md",
-    "docs/!review-问题解决.md",
     "README.md",
     "docs/card-@Internet-人性矩阵.md",
-    "Excalidraw/Drawing 2025-07-26 13.00.38.excalidraw.restored.md",
-    "docs/!review-社会科学.md",
-    "docs/ref-学生思维.md",
-    "docs/card-@谈谈方法-Cogito.md",
-    "docs/card-@内向者沟通圣经-4P.md",
-    "docs/card-@二八法则-二八法则.md",
-    "docs/card-@血酬定律-潜规则-血酬定律.md",
-    "Excalidraw/Drawing 2025-07-26 13.00.38.excalidraw.md",
-    "docs/ref-潜规则-血酬定律-我想重新解释历史.md",
-    "docs/ref-君主论.md",
-    "excalibrain.md",
-    "Excalidraw/ExcaliBrain Snapshot - !review-PKM.excalidraw.md",
     "Test.canvas"
   ]
 }
