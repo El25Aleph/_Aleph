@@ -7,10 +7,10 @@ author: me
 ---
 ## MOC
 
-- [x] [刻意练习模型](card-@刻意练习-刻意练习.md)
-- [x] [4P: Preparation-Presence-Push-Practice](card-@内向者沟通圣经-4P.md)
-- [x] [精力金字塔](card-@精力管理-精力金字塔.md)
-- [x] [二八法则](card-@二八法则-二八法则.md)
+- [x] [刻意练习模型](book-@刻意练习.md)
+- [x] [4P: Preparation-Presence-Push-Practice](book-@内向者沟通圣经.md)
+- [x] [精力金字塔](book-@精力管理.md)
+- [x] [二八法则](book-@二八法则.md)
 
 - [ ] [card-5am-project](card-5am-project.md)
 - [ ] [moneyXYZ谈读书的意义](ref-moneyXYZ谈读书的意义.md)
