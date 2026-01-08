@@ -57,7 +57,7 @@ columns 5
 
 ## 2\. 参考笔记
 
-[note-精力管理](note-精力管理.md)
+[ref-精力管理](ref-精力管理.md)
 
 [ref-精力管理](ref-精力管理.md)
 

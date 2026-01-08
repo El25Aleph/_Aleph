@@ -60,7 +60,7 @@ Critical Thinking 的最终结果，就是要求一个人：
 
 [ref-学会提问](ref-学会提问.md)
 
-[note-学会提问](note-学会提问.md)
+[ref-学会提问](ref-学会提问.md)
 
 ## 3. 批判性思考
 

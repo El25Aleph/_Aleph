@@ -105,7 +105,7 @@ style A3 text-align:left
 
 ## 2. 参考笔记
 
-[note-内向者沟通圣经](note-内向者沟通圣经.md)
+[ref-内向者沟通圣经](ref-内向者沟通圣经.md)
 
 [ref-内向者沟通圣经](ref-内向者沟通圣经.md)
 

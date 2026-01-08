@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("docs")
+    order:
+      - file.name
+    markers: number
+    indentProperties: false

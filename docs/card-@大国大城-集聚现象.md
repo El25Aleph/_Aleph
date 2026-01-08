@@ -40,7 +40,7 @@ createdTime:
 
 ## 2. 卡片链接
 
-[note-大国大城](note-大国大城.md)
+[ref-大国大城](ref-大国大城.md)
 
 [ref-大国大城](ref-大国大城.md)
 
