@@ -1,29 +1,24 @@
 ---
-# 1. 来源维度
-sourceType: 
+sourceType:
 sourceTitle:
 sourceCreator:
 sourcePublischer:
 sourceDate:
 sourceLink:
 sourceISBN:
-# 2. 管理维度
 cardID:
 createdTime:
 updatedTime:
 version:
-# 3. 关系维度
 parentRef:
 parentNote:
 childCards:
 relatedCards:
 appliedIn:
-# 4. 内容维度
 cardTitle:
-cardType: 
+cardType:
 cardDomain:
 cardKeywords:
-# 5. 认知维度
 maturity:
 lastReviewed:
 confidence:
