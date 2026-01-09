@@ -48,7 +48,7 @@ flowchart LR
 		- 《君主论》
 			- note
 			- ref
-			- [blog](blog-@君主论-认知领土拓展.md)
+			- [blog](atom-25-02.md)
 	- 吴思
 		- 《血酬定律》
 			- ref
@@ -62,4 +62,4 @@ flowchart LR
 - [x] [血酬定律/潜规则](book-@血酬定律-潜规则.md)
 - [x] [中国政府与经济发展](book-@置身事内.md)
 - [x] [狗屁工作](book-@毫无意义的工作.md)
-- [x] [认知领土拓展](blog-@君主论-认知领土拓展.md)  
+- [x] [认知领土拓展](atom-25-02.md)  
