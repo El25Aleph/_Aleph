@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/card-渐进式阅读.md",
+                "file": "docs/review-PKM-纸质记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "card-渐进式阅读"
+              "title": "review-PKM-纸质记录"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/card-渐进式阅读.md",
+                "file": "docs/review-PKM-纸质记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "card-渐进式阅读 的大纲"
+              "title": "review-PKM-纸质记录 的大纲"
             }
           },
           {
@@ -207,9 +207,20 @@
   },
   "active": "33c9fef7cb0ee44c",
   "lastOpenFiles": [
+    "docs/review-PKM.md",
+    "docs/review-PKM-纸质记录.md",
+    "docs/!review-自我管理.md",
+    "docs/!review-社会科学.md",
+    "docs/atom-25-04.md",
+    "docs/book-@博客十年.md",
+    "docs/atom-25-03.md",
+    "docs/atom-25-01.md",
+    "docs/atom-24-02.md",
+    "docs/atom-24-01.md",
+    "docs/atom-25-02.md",
+    "docs/card-渐进式阅读.md",
     "docs/ref-把阅读作为方法：从选书到笔记的经验分享.md",
     "docs/ref-5am-project.md",
-    "docs/card-渐进式阅读.md",
     "docs/book-@置身事内.md",
     "docs/book-@长尾理论.md",
     "docs/book-@血酬定律-潜规则.md",
@@ -222,17 +233,6 @@
     "docs/book-@强风吹拂.md",
     "docs/book-@起床后的黄金一小时.md",
     "docs/book-@内向者沟通圣经.md",
-    "docs/book-@脑科学讲义.md",
-    "docs/book-@刻意练习.md",
-    "docs/book-@旧制度与大革命.md",
-    "docs/book-@精力管理.md",
-    "docs/book-@简单的逻辑学.md",
-    "docs/book-@好好说话第一步：学会倾听.md",
-    "docs/book-@好好说话.md",
-    "docs/book-@毫无意义的工作.md",
-    "docs/book-@滚床单心理学.md",
-    "docs/book-@沟通圣经.md",
-    "docs/book-@非暴力沟通.md",
     "docs/!Database.base",
     "未命名.base",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",
