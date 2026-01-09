@@ -1,29 +1,5 @@
 ---
-sourceType:
-sourceTitle:
-sourceCreator:
-sourcePublischer:
-sourceDate:
-sourceLink:
-sourceISBN:
-cardID:
-createdTime:
-updatedTime:
-version:
-parentRef:
-parentNote:
-childCards:
-relatedCards:
-appliedIn:
-cardTitle:
-cardType:
-cardDomain:
-cardKeywords:
-maturity:
-lastReviewed:
-confidence:
-knowledgeGaps:
-actionItems:
+date:
 ---
 ## 1. 核心内容
 

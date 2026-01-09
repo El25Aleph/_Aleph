@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/book-@毫无意义的工作.md",
+                "file": "docs/blog-@君主论-认知领土拓展.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-@毫无意义的工作"
+              "title": "blog-@君主论-认知领土拓展"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/book-@毫无意义的工作.md",
+                "file": "docs/blog-@君主论-认知领土拓展.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "book-@毫无意义的工作 的大纲"
+              "title": "blog-@君主论-认知领土拓展 的大纲"
             }
           },
           {
@@ -207,32 +207,32 @@
   },
   "active": "33c9fef7cb0ee44c",
   "lastOpenFiles": [
-    "docs/ref-毫无意义的工作.md",
-    "docs/book-@毫无意义的工作.md",
-    "docs/book-@二八法则.md",
-    "docs/book-@大国大城.md",
-    "docs/ref-二八法则.md",
-    "docs/ref-大国大城.md",
-    "docs/book-@长尾理论.md",
-    "docs/book-@思考，快与慢.md",
-    "docs/book-@像高手一样解决问题.md",
-    "docs/book-@谈谈方法.md",
-    "docs/book-@学会提问.md",
-    "docs/book-@置身事内.md",
-    "docs/book-@内向者沟通圣经.md",
-    "docs/book-@刻意练习.md",
-    "docs/book-@精力管理.md",
-    "docs/book-@简单的逻辑学.md",
-    "docs/book-@血酬定律-潜规则.md",
-    "docs/ref-滚床单心理学.md",
-    "docs/ref-潜规则-血酬定律-我想重新解释历史.md",
-    "docs/ref-打造个人工作流-系统篇.md",
-    "docs/ref-打造个人工作流-认知篇.md",
-    "docs/book-@树上的男爵.md",
-    "docs/ref-战略性懒惰.md",
-    "docs/ref-请不要神化双链笔记-少数派.md",
-    "docs/ref-moneyXYZ谈读书的意义.md",
     "docs/!review-沟通.md",
+    "docs/!inbox-问题汇总.md",
+    "docs/!review-社会科学.md",
+    "docs/!review-自我管理.md",
+    "docs/!review-PKM.md",
+    "docs/blog-@攻壳机动队：一场关于自我认同的视听享受.md",
+    "docs/book-@强风吹拂.md",
+    "docs/review-PKM-纸质记录.md",
+    "docs/review-PKM.md",
+    "docs/review-转岗复盘.md",
+    "docs/book-@旧制度与大革命.md",
+    "docs/book-@如何正确吵架.md",
+    "docs/book-@起床后的黄金一小时.md",
+    "docs/book-@脑科学讲义.md",
+    "docs/book-@好好说话第一步：学会倾听.md",
+    "docs/book-@好好说话.md",
+    "docs/book-@沟通圣经.md",
+    "docs/book-@非暴力沟通.md",
+    "docs/card-渐进式阅读.md",
+    "docs/book-@简单的逻辑学.md",
+    "docs/book-@毫无意义的工作.md",
+    "docs/book-@滚床单心理学.md",
+    "docs/book-@博弈论与生活.md",
+    "docs/book-@博客十年.md",
+    "docs/ref-5am-project.md",
+    "docs/book-@精力管理.md",
     "docs/!Database.base",
     "未命名.base",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",

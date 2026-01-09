@@ -1,14 +1,7 @@
 ---
-sourceType:
-sourceTitle:
-sourceDate:
-sourceLink:
-cardID:
-cardTitle:
-cardType:
-cardTags:
 date: 2025-08-28
 ---
+
 # card
 ## 1. 核心内容
 
