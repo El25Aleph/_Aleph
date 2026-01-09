@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/book-@刻意练习.md",
+                "file": "docs/atom-24-01.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "book-@刻意练习"
+              "title": "atom-24-01"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/book-@刻意练习.md",
+                "file": "docs/atom-24-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "book-@刻意练习 的大纲"
+              "title": "atom-24-01 的大纲"
             }
           },
           {
@@ -207,8 +207,14 @@
   },
   "active": "33c9fef7cb0ee44c",
   "lastOpenFiles": [
-    "docs/ref-刻意练习.md",
+    "docs/atom-24-02.md",
+    "docs/atom-25-01.md",
+    "docs/atom-25-02.md",
+    "docs/atom-25-03.md",
+    "docs/atom-25-04.md",
+    "docs/atom-26-01.md",
     "docs/book-@刻意练习.md",
+    "docs/ref-刻意练习.md",
     "docs/book-@君主论.md",
     "docs/book-@内向者沟通圣经.md",
     "docs/ref-内向者沟通圣经.md",
@@ -227,12 +233,6 @@
     "docs/ref-思考快与慢.md",
     "docs/book-@性心理学.md",
     "docs/review-PKM-纸质记录.md",
-    "docs/review-PKM.md",
-    "docs/!review-自我管理.md",
-    "docs/!review-社会科学.md",
-    "docs/atom-25-04.md",
-    "docs/book-@博客十年.md",
-    "docs/atom-25-03.md",
     "docs/!Database.base",
     "未命名.base",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",
