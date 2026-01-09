@@ -1,8 +1,8 @@
 ---
 date: 2025-11-19
 ---
-
-本书的主旨其实与 [5am project](card-5am-project.md) 高度契合
+# note
+本书的主旨其实与 [5am project](ref-5am-project.md) 高度契合
 
 我花了大约一小时粗略读完了全文，感觉书中提到的很多方法我已经在实践了，于是算是交叉验证了我的行动
 

@@ -2,7 +2,7 @@
 date: 2025-07-13
 ---
 
-
+# note
 
 “未来不属于那些害怕技术进步的人。”（Those who fear technological advances have every reason to fear the future.）
 

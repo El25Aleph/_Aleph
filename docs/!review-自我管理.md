@@ -12,7 +12,7 @@ author: me
 - [x] [精力金字塔](book-@精力管理.md)
 - [x] [二八法则](book-@二八法则.md)
 
-- [ ] [card-5am-project](card-5am-project.md)
+- [ ] [ref-5am-project](ref-5am-project.md)
 - [ ] [moneyXYZ谈读书的意义](ref-moneyXYZ谈读书的意义.md)
 - [ ] [学生思维](ref-学生思维.md)
 - [ ] [三胺八情](ref-人性矩阵系列-04-情绪.md)
