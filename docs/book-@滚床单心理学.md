@@ -1,5 +1,5 @@
 ---
-title: SS-review-滚床单心理学
+title: 滚床单心理学
 author: 肖雪萍
 date: 2025-01-08
 tags:

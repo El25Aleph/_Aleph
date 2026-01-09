@@ -1,9 +1,9 @@
 ---
 author: me
 date: 2025-01-18
-title: card-@像高手一样解决问题-4S模型
-tags: 
-source: 
+title: 像高手一样解决问题
+tags:
+source:
 ---
 ## 1. 核心内容
 

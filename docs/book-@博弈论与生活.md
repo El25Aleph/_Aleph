@@ -1,6 +1,6 @@
 ---
-title: review-博弈论与生活
-author: [英] Lan Fischer
+title: 博弈论与生活
+author:  Lan Fischer
 date: 2025-02-17
 tags:
 source:

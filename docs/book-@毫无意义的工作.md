@@ -1,7 +1,7 @@
 ---
 date: 2024-12-15
 author: David Graeber
-title: note-毫无意义的工作
+title: 毫无意义的工作
 tags:
 source:
 ---
