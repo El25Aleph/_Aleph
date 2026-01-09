@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/review-PKM-纸质记录.md",
+                "file": "docs/book-@刻意练习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "review-PKM-纸质记录"
+              "title": "book-@刻意练习"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/review-PKM-纸质记录.md",
+                "file": "docs/book-@刻意练习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "review-PKM-纸质记录 的大纲"
+              "title": "book-@刻意练习 的大纲"
             }
           },
           {
@@ -207,32 +207,32 @@
   },
   "active": "33c9fef7cb0ee44c",
   "lastOpenFiles": [
-    "docs/review-PKM.md",
+    "docs/ref-刻意练习.md",
+    "docs/book-@刻意练习.md",
+    "docs/book-@君主论.md",
+    "docs/book-@内向者沟通圣经.md",
+    "docs/ref-内向者沟通圣经.md",
+    "docs/book-@谈谈方法.md",
+    "docs/ref-谈谈方法.md",
+    "docs/book-@像高手一样解决问题.md",
+    "docs/ref-像高手一样解决问题.md",
+    "docs/book-@学会提问.md",
+    "docs/ref-学会提问.md",
+    "docs/ref-学生思维.md",
+    "docs/book-@置身事内.md",
+    "docs/ref-置身事内：中国政府与经济发展.md",
+    "docs/book-@长尾理论.md",
+    "docs/book-@长尾理论.md",
+    "docs/book-@思考，快与慢.md",
+    "docs/ref-思考快与慢.md",
+    "docs/book-@性心理学.md",
     "docs/review-PKM-纸质记录.md",
+    "docs/review-PKM.md",
     "docs/!review-自我管理.md",
     "docs/!review-社会科学.md",
     "docs/atom-25-04.md",
     "docs/book-@博客十年.md",
     "docs/atom-25-03.md",
-    "docs/atom-25-01.md",
-    "docs/atom-24-02.md",
-    "docs/atom-24-01.md",
-    "docs/atom-25-02.md",
-    "docs/card-渐进式阅读.md",
-    "docs/ref-把阅读作为方法：从选书到笔记的经验分享.md",
-    "docs/ref-5am-project.md",
-    "docs/book-@置身事内.md",
-    "docs/book-@长尾理论.md",
-    "docs/book-@血酬定律-潜规则.md",
-    "docs/book-@学会提问.md",
-    "docs/book-@像高手一样解决问题.md",
-    "docs/book-@谈谈方法.md",
-    "docs/book-@思考，快与慢.md",
-    "docs/book-@树上的男爵.md",
-    "docs/book-@如何正确吵架.md",
-    "docs/book-@强风吹拂.md",
-    "docs/book-@起床后的黄金一小时.md",
-    "docs/book-@内向者沟通圣经.md",
     "docs/!Database.base",
     "未命名.base",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",

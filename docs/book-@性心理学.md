@@ -1,10 +1,9 @@
 ---
 title: 性心理学
-autho: Havelock Ellis
+author: Havelock Ellis
 translator: 潘光旦
 ---
-
-## 问题
+# ref
 
 ### Q1: 为什么要读这本书？
 
@@ -51,7 +50,7 @@ translator: 潘光旦
 - [ ] 像潘光旦一样使用批判性思维阅读书籍
 - [ ] 把性作为一种科学对待：生物性/人/男女...
 
-## 笔记与批注
+# note
 
 ### 6.婚姻
 
