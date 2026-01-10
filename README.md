@@ -50,6 +50,8 @@ type:
 
 - 数据库
 - Pretty Property
+
+![[!database.base]]
 ## 如何设计 atom 笔记的正文部分
 
 在正文部分，首先列出参考笔记
