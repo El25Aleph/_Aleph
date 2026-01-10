@@ -1,3 +1,4 @@
+```
 ---
 # 1. 来源维度
 sourceType: 
@@ -30,6 +31,8 @@ confidence:
 knowledgeGaps:
 actionItems:
 ---
+```
+
 ## 1. 核心内容
 
 ```mermaid
@@ -49,10 +52,6 @@ actionItems:
 
 
 ## 2. 参考笔记
-
-[note-](note-.md)
-
-[ref-](ref-.md)
 
 ## 3. 批判性思考
 

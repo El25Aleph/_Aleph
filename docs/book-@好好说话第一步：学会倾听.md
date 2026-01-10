@@ -1,5 +1,5 @@
 ---
-data: 2025-11-22
+date: 2025-11-22
 ---
 # note
 ## 0. notebooklm 导读

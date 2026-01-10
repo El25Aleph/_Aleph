@@ -1,7 +1,6 @@
 ---
 title: 性心理学
 author: Havelock Ellis
-translator: 潘光旦
 ---
 # ref
 
