@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/atom-24-01.md",
+                "file": "docs/book-@博弈论与生活.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "atom-24-01"
+              "title": "book-@博弈论与生活"
+            }
+          },
+          {
+            "id": "3f69736a5f90f848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/!inbox-问题汇总.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "!inbox-问题汇总"
             }
           }
         ]
@@ -141,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/atom-24-01.md",
+                "file": "docs/book-@博弈论与生活.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "atom-24-01 的大纲"
+              "title": "book-@博弈论与生活 的大纲"
             }
           },
           {
@@ -207,32 +221,32 @@
   },
   "active": "33c9fef7cb0ee44c",
   "lastOpenFiles": [
-    "docs/atom-24-02.md",
-    "docs/atom-25-01.md",
-    "docs/atom-25-02.md",
-    "docs/atom-25-03.md",
-    "docs/atom-25-04.md",
-    "docs/atom-26-01.md",
-    "docs/book-@刻意练习.md",
-    "docs/ref-刻意练习.md",
+    "docs/!inbox-问题汇总.md",
+    "docs/book-@博弈论与生活.md",
+    "docs/book-@大国大城.md",
+    "docs/book-@二八法则.md",
+    "docs/book-@非暴力沟通.md",
+    "docs/book-@沟通圣经.md",
+    "docs/book-@滚床单心理学.md",
+    "docs/book-@毫无意义的工作.md",
+    "docs/book-@好好说话.md",
+    "docs/book-@好好说话第一步：学会倾听.md",
+    "docs/book-@简单的逻辑学.md",
+    "docs/book-@精力管理.md",
     "docs/book-@君主论.md",
+    "docs/book-@刻意练习.md",
+    "docs/book-@脑科学讲义.md",
     "docs/book-@内向者沟通圣经.md",
-    "docs/ref-内向者沟通圣经.md",
-    "docs/book-@谈谈方法.md",
-    "docs/ref-谈谈方法.md",
-    "docs/book-@像高手一样解决问题.md",
-    "docs/ref-像高手一样解决问题.md",
-    "docs/book-@学会提问.md",
-    "docs/ref-学会提问.md",
-    "docs/ref-学生思维.md",
-    "docs/book-@置身事内.md",
-    "docs/ref-置身事内：中国政府与经济发展.md",
-    "docs/book-@长尾理论.md",
-    "docs/book-@长尾理论.md",
+    "docs/book-@起床后的黄金一小时.md",
+    "docs/book-@如何正确吵架.md",
     "docs/book-@思考，快与慢.md",
-    "docs/ref-思考快与慢.md",
+    "docs/book-@谈谈方法.md",
+    "docs/book-@像高手一样解决问题.md",
     "docs/book-@性心理学.md",
-    "docs/review-PKM-纸质记录.md",
+    "docs/book-@学会提问.md",
+    "docs/book-@置身事内.md",
+    "docs/book-@长尾理论.md",
+    "docs/book-@血酬定律-潜规则.md",
     "docs/!Database.base",
     "未命名.base",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",

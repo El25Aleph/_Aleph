@@ -1,3 +1,57 @@
+# card
+
+结合《思考，快与慢》中的系统 1 和系统 2, 可以得出以下流程图：
+
+```mermaid
+flowchart LR
+
+    T@{ shape: text, label: 心智活动 }
+
+    A01@{ shape: text, label: 生物基础 }
+
+    A02@{ shape: text, label: 核心机制 }
+
+    A03@{ shape: text, label: 信息处理<br>决策路径 }
+
+    B01@{ shape: text, label: 电信号：<br>神经元内部 }
+
+    B02@{ shape: text, label: 化学信号：<br>突触连接/神经递质 }
+
+    B03@{ shape: text, label: 突触可塑性 }
+
+    B04@{ shape: text, label: 系统 1 }
+
+    B05@{ shape: text, label: 系统 2 }
+
+    C01@{ shape: text, label: 情绪：杏仁核 }
+
+    C02@{ shape: text, label: 内稳态：下丘脑 }
+
+    C03@{ shape: text, label: 奖赏：多巴胺 }
+
+    C04@{ shape: text, label: 学习/记忆/理性 }
+
+    C05@{ shape: text, label: 自我意识 }
+
+    C06@{ shape: text, label: 自由意志/元认知 }
+
+	T --- A01 & A02 & A03
+
+    A01 --- B01 & B02 
+
+    A02 --- B03 
+
+    A03 --- B04 & B05
+
+    B04 --- C01 & C02 & C03
+
+    B05 --- C04 & C05 & C06
+
+
+    classDef me fill:none,stroke:none,color:black
+```
+
+
 # note
 ## 1. 核心概念
 
@@ -156,57 +210,4 @@
 所谓自由意志更可能是对行为的事后解释
 
 > 为了做正确的是，为了做个更好的人，或者仅仅是为了让我们的脑在时候解释时对自己的行为更满意，我们都应该为自己和自己的生活设置一些原则。这与自由无关，但与生而为人的尊严有关
-
-## 2. 个人总结
-
-结合《思考，快与慢》中的系统 1 和系统 2, 可以得出以下流程图：
-
-```mermaid
-flowchart LR
-
-    T@{ shape: text, label: 心智活动 }
-
-    A01@{ shape: text, label: 生物基础 }
-
-    A02@{ shape: text, label: 核心机制 }
-
-    A03@{ shape: text, label: 信息处理<br>决策路径 }
-
-    B01@{ shape: text, label: 电信号：<br>神经元内部 }
-
-    B02@{ shape: text, label: 化学信号：<br>突触连接/神经递质 }
-
-    B03@{ shape: text, label: 突触可塑性 }
-
-    B04@{ shape: text, label: 系统 1 }
-
-    B05@{ shape: text, label: 系统 2 }
-
-    C01@{ shape: text, label: 情绪：杏仁核 }
-
-    C02@{ shape: text, label: 内稳态：下丘脑 }
-
-    C03@{ shape: text, label: 奖赏：多巴胺 }
-
-    C04@{ shape: text, label: 学习/记忆/理性 }
-
-    C05@{ shape: text, label: 自我意识 }
-
-    C06@{ shape: text, label: 自由意志/元认知 }
-
-	T --- A01 & A02 & A03
-
-    A01 --- B01 & B02 
-
-    A02 --- B03 
-
-    A03 --- B04 & B05
-
-    B04 --- C01 & C02 & C03
-
-    B05 --- C04 & C05 & C06
-
-
-    classDef me fill:none,stroke:none,color:black
-```
 
