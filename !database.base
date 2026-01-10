@@ -19,9 +19,9 @@ views:
         direction: DESC
     columnSize:
       file.name: 101
-      note.type: 104
-      note.topic: 124
-      note.tags: 637
+      note.type: 115
+      note.topic: 117
+      note.tags: 386
     rowHeight: medium
     markers: none
     indentProperties: false
