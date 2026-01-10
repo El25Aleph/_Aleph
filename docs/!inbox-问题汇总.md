@@ -1,8 +1,3 @@
----
-title: review-问题汇总
-date: 2026-01-06
-author: me
----
 
 ## 如何做决策/分析？
 

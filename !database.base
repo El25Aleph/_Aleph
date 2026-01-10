@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.folder == "docs"
+views:
+  - type: table
+    name: 原子笔记
+    filters:
+      and:
+        - file.basename.startsWith("atom-")
+        - '!topic.contains("读后感")'
+        - '!topic.contains("观后感")'
+    order:
+      - file.name
+      - type
+      - topic
+      - tags
+    sort:
+      - property: type
+        direction: DESC
+    columnSize:
+      file.name: 101
+      note.type: 104
+      note.topic: 124
+      note.tags: 637
+    rowHeight: medium
+    markers: none
+    indentProperties: false
+    cardSize: 400
+  - type: table
+    name: 读后感/观后感
+    filters:
+      and:
+        - file.basename.startsWith("atom")
+        - or:
+            - topic == ["读后感"]
+            - topic == ["观后感"]
+    order:
+      - file.name
+      - tags
+      - title
+    cardSize: 120
+    columnSize:
+      note.tags: 129

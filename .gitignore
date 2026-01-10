@@ -4,3 +4,9 @@ Logseq
 .obsidian/workspace.json
 .obsidian/core-plugins.json
 .obsidian/core-plugins.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

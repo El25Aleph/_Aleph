@@ -13,44 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/review-转岗复盘.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "review-转岗复盘"
+              "title": "README"
             }
           },
           {
-            "id": "33c9fef7cb0ee44c",
+            "id": "30a55cb15d869e76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "docs/atom-24-02.md",
-                "mode": "preview",
-                "source": true
+                "file": "!database.base",
+                "viewName": "原子笔记"
               },
-              "icon": "lucide-file",
-              "title": "atom-24-02"
-            }
-          },
-          {
-            "id": "3f69736a5f90f848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/review-转岗复盘.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "review-转岗复盘"
+              "icon": "lucide-table",
+              "title": "!database"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,22 +77,12 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          },
-          {
-            "id": "2ac4894eece4b16b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 297.5
   },
   "right": {
     "id": "fd4befba5d699e2a",
@@ -118,12 +93,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "54d264dc81a1a176",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/ref-人性矩阵系列-08-公共知识.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ref-人性矩阵系列-08-公共知识 的大纲"
+            }
+          },
+          {
             "id": "a154648e72302728",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/review-转岗复盘.md",
+                "file": "docs/ref-人性矩阵系列-08-公共知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "review-转岗复盘 的反向链接列表"
+              "title": "ref-人性矩阵系列-08-公共知识 的反向链接列表"
             }
           },
           {
@@ -142,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/review-转岗复盘.md",
+                "file": "docs/ref-人性矩阵系列-08-公共知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "review-转岗复盘 的出链列表"
+              "title": "ref-人性矩阵系列-08-公共知识 的出链列表"
             }
           },
           {
@@ -166,21 +156,6 @@
             }
           },
           {
-            "id": "54d264dc81a1a176",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "docs/review-转岗复盘.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "review-转岗复盘 的大纲"
-            }
-          },
-          {
             "id": "0d56f1b3b2c2e6d4",
             "type": "leaf",
             "state": {
@@ -195,27 +170,29 @@
             }
           },
           {
-            "id": "0e9ddd51348dceb6",
+            "id": "6290bc0fc7d497b0",
             "type": "leaf",
             "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "type": "footnotes",
+              "state": {
+                "file": "!database.base"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
             }
           },
           {
-            "id": "2ad494a89517f333",
+            "id": "21403fb645302005",
             "type": "leaf",
             "state": {
-              "type": "juggl_style",
+              "type": "smart-connections-view",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,26 +200,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "templates:插入模板": true,
-      "command-palette:打开命令面板": false,
-      "daily-notes:打开/创建今天的日记": true,
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
-      "juggl:Juggl global graph": true,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "random-note:开始漫游笔记": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "0d56f1b3b2c2e6d4",
+  "active": "30a55cb15d869e76",
   "lastOpenFiles": [
+    "README.md",
+    "!database.base",
+    "docs/未命名.md",
+    "docs/atom-24-01.md",
+    "docs/atom-26-01.md",
+    "docs/atom-25-04.md",
+    "docs/atom-25-03.md",
+    "docs/atom-25-02.md",
+    "docs/atom-25-01.md",
+    "docs/atom-24-02.md",
+    "docs/!inbox-问题汇总.md",
+    "docs/review-转岗复盘.md",
+    "docs/ref-人性矩阵系列-08-公共知识.md",
     "docs/review-PKM.md",
     "blog-@review-我的知识管理-最小可行性系统回顾.md",
-    "docs/atom-24-02.md",
-    "docs/atom-24-01.md",
     "!template/模板-card.md",
-    "docs/review-转岗复盘.md",
     "docs/ref-moneyXYZ谈读书的意义.md",
     "docs/ref-战略性懒惰.md",
     "docs/ref-学生思维.md",
@@ -253,18 +238,7 @@
     "docs/ref-人性矩阵系列-矩阵之外-02-雌激素和孕激素.md",
     "docs/ref-人性矩阵系列-矩阵之外-01-皮质醇.md",
     "docs/ref-人性矩阵系列-09-道德.md",
-    "docs/ref-人性矩阵系列-08-公共知识.md",
-    "docs/ref-人性矩阵系列-07-态度.md",
-    "docs/ref-人性矩阵系列-06-认知.md",
-    "docs/ref-人性矩阵系列-05-大脑.md",
-    "docs/ref-人性矩阵系列-04-情绪.md",
-    "docs/ref-人性矩阵系列-03-睾酮.md",
-    "docs/ref-人性矩阵系列-02-催产素.md",
-    "docs/ref-人性矩阵系列-01-基因.md",
-    "docs/ref-请不要神化双链笔记-少数派.md",
-    "docs/ref-巧用分类法解决使用卡片笔记时遇到的困境-少数派.md",
     "docs/!Database.base",
-    "未命名.base",
     "Excalidraw/backup_project-graph/2025-7-27_20-23-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_20-13-24.backup.json",
     "Excalidraw/backup_project-graph/2025-7-27_20-03-24.backup.json",
