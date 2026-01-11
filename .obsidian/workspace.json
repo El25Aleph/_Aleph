@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/atom-25-05.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "atom-25-05"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "README.md"
+                "file": "docs/atom-25-05.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "docs/atom-25-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "atom-25-05 的大纲"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/atom-25-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "atom-25-05 的反向链接列表"
             }
           },
           {
@@ -204,9 +204,29 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "78331538d32ca85f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "67854dfbd4dd5327",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -225,17 +245,20 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "30a55cb15d869e76",
+  "active": "78331538d32ca85f",
   "lastOpenFiles": [
-    "docs/atom-25-04.md",
     "docs/!inbox-问题汇总.md",
+    "docs/atom-25-05.md",
+    "README.md",
+    "docs/atom-26-03.md",
+    "docs/atom-26-02.md",
+    "docs/atom-25-04.md",
     "docs/atom-25-03.md",
     "docs/atom-25-02.md",
     "docs/atom-25-01.md",
     "docs/atom-24-01.md",
     "docs/ref-渐进式阅读.md",
     "docs/atom-24-02.md",
-    "docs/atom-26-03.md",
     "docs/book-@博弈论与生活.md",
     "docs/book-@简单的逻辑学.md",
     "!database.base",
@@ -243,7 +266,6 @@
     "docs/book-@学会提问.md",
     "copilot/copilot-conversations/简单的逻辑学中介绍的逻辑模型算是理想化的逻辑。然而，现@20260111_162800.md",
     "copilot/copilot-conversations",
-    "docs/atom-26-02.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -253,8 +275,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名.base",
