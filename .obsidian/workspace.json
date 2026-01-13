@@ -245,8 +245,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "78331538d32ca85f",
+  "active": "30a55cb15d869e76",
   "lastOpenFiles": [
+    "docs/book-@贝叶斯定理.md",
+    "docs/Untitled.md",
     "docs/!inbox-问题汇总.md",
     "docs/atom-25-05.md",
     "README.md",
@@ -273,8 +275,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名.base",
