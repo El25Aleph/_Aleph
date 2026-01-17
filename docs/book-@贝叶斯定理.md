@@ -30,8 +30,10 @@
 
 ## 概率学的 use case
 
-- process stable
-- yield loss improvement
+- 精益管理
+  - process stable
+  - yield loss improvement
+
 
 # note
 
