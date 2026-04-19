@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/00-distilled /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/01-model /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/02-context /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/03-literature /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/04-pending)",
+      "Bash(mv '/c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/个人提升/done/80_20法则 - 理查德·科克.epub' /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/00-distilled/)",
+      "Bash(mv /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/个人提升/done/《起床后的黄金1小时》.mobi /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/00-distilled/)",
+      "Bash(mv '/c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/个人提升/done/十分钟冥想 by 安迪·普迪科姆（Andy Puddicombe） \\(z-lib.org\\).mobi' /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/00-distilled/)",
+      "Bash(mv /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/个人提升/done/长尾理论.mobi /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/00-distilled/)"
+    ]
+  }
+}
