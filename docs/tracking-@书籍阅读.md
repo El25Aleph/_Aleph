@@ -1,3 +1,15 @@
+# 2026-04-26
+
+使用 notebooklm + 网页版 AI （deep seek + Chat GPT）的方式读完了《自私的基因》
+
+发现 notebooklm 的 studio 功能非常强大，它的 study guide 风格可以快速提取重要概念/术语，并且以问题为导向生成 report 
+
+conceptual primer 风格的 report 则是解释核心概念并实现串联
+
+mind map 对可视化更加友好，单击每个节点还会生成更加详细的文字说明
+
+对于电子书，可以继续使用这种方法论
+
 # 2026-04-19
 
 把所有电子书上传至 GitHub 并对书籍类型进行了优化
