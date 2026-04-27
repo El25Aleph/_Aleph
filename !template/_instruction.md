@@ -16,11 +16,11 @@
 
 Step 1：判断输入类型
 
-- book / ref / tracking / toolkit / atom / hypo
+- book / ref / tracking / moc / atom / hypo
 
 Step 2：选择处理路径
 
-- book/ref → 提取模型 + 对比 wiki + 判断是否进入 toolkit
+- book/ref → 提取模型 + 对比 wiki + 判断是否进入 moc
 - tracking → 提取应用结果 + 反馈模型有效性
 - atom → 识别认知摩擦
 - hypo → 检查假设质量 + 是否需要验证
