@@ -1,15 +1,22 @@
 ---
-
 atom: 25-02
 title: 如何把君主论映射至自我提升领域
+type: toolkit
 topic:
   - 自我提升
-type: 批判性思考
+  - 跨域迁移
 tags:
+  - 君主论
   - 二八法则
   - 精力管理
   - 费曼学习法
   - PKM国民军
+links:
+  - book-@君主论
+  - book-@二八法则
+  - book-@精力管理
+  - book-@学会提问
+source: tracking-@君主论（2025-01 首次 / 2026-04 重组）
 ---
 
 # 2026-04-08
