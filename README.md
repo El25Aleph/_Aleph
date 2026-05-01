@@ -80,6 +80,54 @@ _Aleph/
 - `moc-@`：问题导航地图（必须有驱动问题，参见 §三）
 - `!moc-Overview.md`：知识库总索引（cluster + moc 全景）
 
+### 2.6 全景图：三层结构与主要流转
+
+```mermaid
+classDiagram
+    direction BT
+
+    class 输入层 {
+        book-@
+        ref-@
+    }
+    class 加工层 {
+        card-@ 单概念结晶
+        toolkit-@ 多概念组合
+    }
+    class 过程层 {
+        tracking-@ 行动追踪
+    }
+    class 导航层 {
+        moc-@ 有驱动问题
+    }
+    class cluster:::hub {
+        无独立文件
+        所有内容的归宿
+    }
+    %%class Overview["!moc-Overview.md"]
+
+    输入层 ..> 加工层 : 提取 / 合成
+    过程层 ..> 加工层 : 反馈
+    导航层 ..> 加工层 : 纯链接
+
+    输入层 --* cluster : 归簇
+    加工层 --* cluster : 归簇
+    过程层 --* cluster : 归簇
+
+    %%cluster --> Overview
+    %%导航层 --> Overview
+
+    classDef hub fill:#ffd54f,stroke:#e65100,stroke-width:4px,font-weight:bold
+```
+
+> 暂不纳入图中：`movie-@`（仅 1 篇，价值路径独立）、`atom-` / `hypo-`（自我认知层的开放问题，循环关系 `atom → hypo → 新 atom`，与主流转独立运行）。
+
+读图三件事：
+
+1. **cluster 是中心**（黄色高亮，三条 `--*` composition 实线汇聚）——输入 / 加工 / 过程三层的内容笔记都"归簇"到这里，cluster 是知识库的引力中心。
+2. **加工层是枢纽**（三条 `..>` dependency 虚线指向）——输入层提取到这里、过程层反馈到这里、导航层链接到这里。
+3. **两条独立通路汇入 Overview**：cluster（物理归簇）和 moc（问题导航）是 `!moc-Overview.md` 的两张并列总览表。
+
 ---
 
 ## 三、cluster 与 moc
@@ -105,6 +153,42 @@ _Aleph/
 - `toolkit-@` 是**合成产物**——把 N 个模型组合成 1 个可用的新工具流程
 
 如果你写的内容**没有新合成**，只是串联和导航——那是 moc。如果你写的内容**有可使用的新工具流程**——那是 toolkit。
+
+### 3.1 类型判定决策树
+
+新内容来了不知道是哪种？走这张图：
+
+```mermaid
+flowchart TD
+    start([新内容来了])
+    start --> q1{"来源是什么？"}
+
+    q1 -- "一本完整书" --> book["book-@"]
+    q1 -- "文章 / 视频 / 二手资料" --> ref["ref-"]
+    q1 -- "我自己产生的内容" --> q2
+
+    q2{"我做了什么？"}
+    q2 -- "我试过、有反馈" --> tracking["tracking-@"]
+    q2 -- "我在合成模型" --> q3
+
+    q3{"合成的形态？"}
+    q3 -- "单个概念结晶" --> card["card-@"]
+    q3 -- "多概念组合成新流程" --> toolkit["toolkit-@"]
+    q3 -- "只串联、没新合成" --> q4
+
+    q4{"有驱动问题吗？"}
+    q4 -- "有，跨多个 cluster" --> moc["moc-@（建文件）"]
+    q4 -- "没有，只是同主题" --> cluster["cluster（不建文件，进 Overview 章节）"]
+```
+
+> 未在图中：`movie-@` 走文学价值路径独立处理；`atom-` / `hypo-` 是开放问题与阶段性假设的循环（详见 §2.4）。
+
+每个分支正好处理一个易混边界：
+
+- **q1**：`book` vs `ref` ——完整作品 vs 二手摘要
+- **q2**：`tracking` vs 合成产物——有反馈 vs 在做合成
+- **q3**：`card` vs `toolkit` vs `moc`——单概念结晶 / 多概念合成 / 只链接不合成
+- **q4**：`moc` vs `cluster` ——有驱动问题就建文件，否则只在 Overview 列章节
 
 ---
 
