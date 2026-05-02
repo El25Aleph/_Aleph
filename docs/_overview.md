@@ -2,15 +2,16 @@
 title: 知识库总索引
 type: overview
 tags:
-  - moc
+  - overview
   - cluster
+  - moc
 ---
 
-# !moc-Overview
+# _overview
 
 > 知识库的入口。问"我现在该回到哪里"时打开这张表。
 >
-> cluster 是物理归簇，moc 是问题导航。两者的边界与判定标准见 [README §3](../README.md)。
+> cluster 是物理归簇，moc 是问题导航。两者的边界与判定标准见 [README §3](../README.md)。模型清单与实践映射见 [_models](_models.md)。
 
 ---
 
@@ -21,7 +22,7 @@ tags:
 | 脑科学/认知 | 17 | [moc-@认知链路](moc-@认知链路.md) | 活跃（含 2 toolkit + 5 card） |
 | 人性矩阵 | 12 | [moc-@人性矩阵](moc-@人性矩阵.md) | 待挖：节点对应 7 个仍悬空 |
 | 沟通 | 9 | [moc-@沟通](moc-@沟通.md) | 成熟 |
-| PKM | 9 | — | _待挖：哪种工作流真在产出_ |
+| PKM | 10 | — | _待挖：哪种工作流真在产出_ |
 | 刻意练习 | 10 | — | _待挖：什么样的努力是有效的（已起 card-@刻意练习）_ |
 | 文学回响 | 7 | — | _独立层（不挖矿，重读式回访）_ |
 | 健康 | 7 | [moc-@健康](moc-@健康.md) | dashboard，纯执行层 |
@@ -100,8 +101,9 @@ tags:
 - [book-@滚床单心理学](book-@滚床单心理学.md)
 - [ref-二语习得](ref-二语习得.md)
 
-### 4. PKM (9)
+### 4. PKM (10)
 
+- [toolkit-@工具决策前的自检](toolkit-@工具决策前的自检.md)
 - [tracking-@PKM](tracking-@PKM.md)
 - [tracking-@PKM-纸质记录](tracking-@PKM-纸质记录.md)
 - [ref-把阅读作为方法：从选书到笔记的经验分享](ref-把阅读作为方法：从选书到笔记的经验分享.md)

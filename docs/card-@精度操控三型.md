@@ -11,6 +11,7 @@ links:
   - book-@贝叶斯定理
   - book-@思考，快与慢
   - book-@粉红色柔软的学习者
+  - toolkit-@工具决策前的自检
 source: tracking-@贝叶斯定理（2026-01-18 段提取）
 ---
 
