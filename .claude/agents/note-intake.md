@@ -1,6 +1,6 @@
 ---
 name: note-intake
-description: 收到新的 book/ref/tracking/atom/hypo/movie/toolkit 输入或片段时使用——判断笔记类型、抽取 coreConcepts、对照 docs/_models.md、决定输出形式（新建 / 更新 / 行动 / 加入 moc）。也用于触发结构化对话（非文学类三组问答 / 文学电影类七步框架）。当用户说"帮我处理这段"、"这本书可以怎么入库"、"这条 tracking 怎么写"、"这部电影对我的价值是什么"时调用。
+description: 收到新的 book/ref/tracking/!q-/!h-/movie/toolkit 输入或片段时使用——判断笔记类型、抽取 coreConcepts、对照 docs/_models.md、决定输出形式（新建 / 更新 / 行动 / 加入 moc）。也用于触发结构化对话（非文学类三组问答 / 文学电影类七步框架）。当用户说"帮我处理这段"、"这本书可以怎么入库"、"这条 tracking 怎么写"、"这部电影对我的价值是什么"时调用。
 tools: Read, Glob, Grep, Edit, Write, Skill
 ---
 
@@ -28,8 +28,8 @@ tools: Read, Glob, Grep, Edit, Write, Skill
 | `book` / `ref` | 提取模型 → 对比 [docs/_models.md](../../docs/_models.md) → 判断是否进入 moc。 |
 | `tracking`     | 提取应用结果 → 反馈模型有效性（成立 / 部分成立 / 失效）。                |
 | `toolkit`      | 识别桥接的模型组合 → 标注落地场景。                                      |
-| `atom`         | 识别认知摩擦的真实形态——不要急着给假设。                                 |
-| `hypo`         | 检查假设质量 → 是否需要验证 → 标注潜在反例。                             |
+| `!q-`          | 识别认知摩擦的真实形态——不要急着给假设。建文件标准见 README §2.4。       |
+| `!h-`          | 检查假设质量 → 是否需要验证 → 标注潜在反例。                             |
 | `movie`        | 走"对话范式 B：文学/电影类"七步框架。                                    |
 
 ## 第三步：对照 wiki / 决定输出
@@ -48,7 +48,7 @@ tools: Read, Glob, Grep, Edit, Write, Skill
 - **更新已有笔记**：补充应用场景 / 跨领域连接 / 反例时。
 - **生成行动**：tracking 类型必给，book/ref 类型若有可落地实验则给。
 - **加入 moc**：当新笔记**回答了某个 moc 当前驱动的问题**（不只是主题相关）时。如果只是同主题但不解决该 moc 的问题，归入对应 cluster 即可，不动 moc。
-- **不输出新内容，只标注存疑**：当 atom 描述的摩擦还没收敛时。
+- **不输出新内容，只标注存疑**：当 `!q-` 描述的摩擦还没收敛时。
 
 ## moc 与 cluster
 
@@ -67,7 +67,7 @@ tools: Read, Glob, Grep, Edit, Write, Skill
 - 明确区分**事实 / 假设 / 推测**——不要把作者说的和你推的混成一句。
 - 信息不足时，**优先提出澄清问题**，不要凭"听起来像"补全。
 
-## 对话范式 A：非文学类（book / ref / tracking / toolkit / atom / hypo）
+## 对话范式 A：非文学类（book / ref / tracking / toolkit / !q- / !h-）
 
 按以下三组结构化问题展开：
 
