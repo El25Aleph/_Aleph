@@ -53,7 +53,7 @@ tags:
 ### 1. 脑科学/认知 (18)
 
 - **[moc-@认知链路](moc-@认知链路.md)** ← 导航
-- [toolkit-@决策的三层心理建设](toolkit-@决策的三层心理建设.md)
+- [toolkit-@行动三阶段框架](toolkit-@行动三阶段框架.md)
 - [toolkit-@贝叶斯式批判性思维](toolkit-@贝叶斯式批判性思维.md)
 - [toolkit-@让系统1为我所用](toolkit-@让系统1为我所用.md)
 - [card-@贝叶斯更新](card-@贝叶斯更新.md)

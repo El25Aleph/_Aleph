@@ -1,5 +1,5 @@
 ---
-title: 决策的三层心理建设
+title: 行动三阶段框架
 type: toolkit
 topic: 行动前/中/后的心理框架
 tags:
