@@ -1,3 +1,13 @@
+# 2026-05-31
+
+这一个月中，时不时的就做一下肩胛骨拉伸，效果不错
+
+另外还有这个视频中提到，肩胛骨可能还和前胸肌肉群有关：
+
+https://www.bilibili.com/video/BV1iTLw6gE1g/?spm_id_from=333.337.search-card.all.click&vd_source=bfb2e50dad8e670124c382656b85473e
+
+所以除了放松后面肩胛骨，还要配合前胸肌群的放松才行
+
 # 2026-04-28
 
 在 B 站发现这个视频：
