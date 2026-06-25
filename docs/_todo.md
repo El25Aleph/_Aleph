@@ -35,6 +35,7 @@
 |---|---|
 | 标题模板扩到 toolkit / book | 命名优化的延续；已做单条 toolkit-@行动三阶段框架（原"决策的三层心理建设"），可在下次撞到不准确命名时一并处理 |
 | inbox 残留分流（§习惯养成 → moc / §Misc → !q-） | 用户主动说"帮我 audit inbox"时启动 |
+| **备份 `.claude/projects/.../memory/` 到 OneDrive / U 盘** | Q2（重要不紧急）。memory 含大量私密内容（1993 / 女友 / Banana / Fi 价值观 等 user/feedback memory），换电脑或重装 Claude CLI 会丢失。**选项 2** = 本地非 git 备份（**不**单独建 GitHub repo，避免私密泄露风险）。具体操作：在 OneDrive 客户端把 `C:\Users\zhang\.claude\` 目录勾入同步范围即可。来源 [_inbox 2026-05-01](_inbox.md) 长期疑问"`.claude` 是否同步到 GitHub"，2026-06-25 决断为选项 2 |
 
 ### 🔵 延后（沉淀期不动）
 
