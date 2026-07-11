@@ -6,6 +6,18 @@
 
 ---
 
+## 2026-07-11 归档
+
+### [Claude 整理 · 2026-07-11] 2026-05-12「.claude 是否 GitHub 同步」
+
+> **归档原因**：原问题已解决——2026-06-25 决断为「选项 2 = 本地非 git 备份到 OneDrive」，不单独建 GitHub repo（避免 memory 私密内容泄露）。落地方案见 [_todo](../_todo.md) §一 🟠 稳定推进「备份 `.claude/memory` 到 OneDrive」。原文如下：
+
+> **2026-05-12**
+>
+> C:\Users\zhang\.claude 有没有必要也在 GitHub 同步一下？
+
+---
+
 ## 2026-06-25 归档
 
 ### [Claude 整理 · 2026-06-25] 2026-06-22 三段 INTJ fleeting notes

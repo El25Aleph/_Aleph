@@ -53,12 +53,6 @@
 
 ---
 
-2026-06-22
-
-> 三段 fleeting notes（能力圈链 / 八维 ↔ 知识库映射 / DOTA 类比）已于 2026-06-25 全部消化进 [moc-@INTJ人生指南](moc-@INTJ人生指南.md)，原文归档至 [archive/_inbox §2026-06-25](archive/_inbox.md)。
-
----
-
 2026-06-02
 
 tracking 与 inbox 的关联：
@@ -158,16 +152,6 @@ notebooklm 的 info graphic 功能看起来很 fancy, 也许适合做 output
 之前在纸质笔记中写了一些篮球的 tracking, 也许应该总结转移到数字笔记中，和 AI 聊天生成 checklist, 再利用刻意练习，投篮水平应该会有提升
 
 还有，在 B 站收藏了很多投篮教学视频，应该找个时间统一看看，写写笔记
-
----
-
-C:\Users\zhang\.claude 有没有必要也在 GitHub 同步一下？
-
----
-
-2026-05-01
-
-> "memory.md 应详细介绍背景"这条已于 2026-06-25 落实——5 条 user memory 已写入（基本身份与职业 / 教育史 / 爱好 / PKM 三层目的 / pkm_owner 更新含 _Aleph 命名典故）。原文归档至 [archive/_inbox §2026-06-25](archive/_inbox.md)。
 
 ## 习惯养成
 
