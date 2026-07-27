@@ -11,7 +11,7 @@ tags:
 
 > 知识库的入口。问"我现在该回到哪里"时打开这张表。
 >
-> cluster 是物理归簇，moc 是问题导航。两者的边界与判定标准见 [README §3](../README.md)。模型清单与实践映射见 [_models](_models.md)。
+> cluster 是物理归簇，moc 是问题导航。两者的边界与判定标准见 [README §3](../README.md)。模型现分散在各 card 与 [Ni-Te-audit](Ni-Te-audit.md)；早期总表 [_models](archive/_models.md) 已归档（2026-07-27）。
 
 ---
 
