@@ -8,7 +8,15 @@
       "Bash(mv /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/个人提升/done/长尾理论.mobi /c/Users/zhang/Documents/GitHub/_Aleph/raw/ebook/00-distilled/)",
       "Bash(xargs grep *)",
       "Bash(xargs -I{} sh -c 'echo \"=== {} ===\" && sed -n \"1,25p\" {}')",
-      "Bash(grep -v \":0$\")"
+      "Bash(grep -v \":0$\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(git mv *)",
+      "Bash(git commit *)",
+      "Bash(cp \"/c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/41224ec9-40f9-4591-aa09-098518f9602a/scratchpad/边界地图-原料汇集.md\" \"docs/_scratch-边界地图-原料汇集.md\")",
+      "Bash(rm \"/c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/41224ec9-40f9-4591-aa09-098518f9602a/scratchpad/边界地图-原料汇集.md\")",
+      "Bash(git restore *)"
     ]
   }
 }
