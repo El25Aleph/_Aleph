@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"cbeb067169dc8a1c","x":-518,"y":24,"width":118,"height":56,"type":"text","text":"Now"},
+		{"id":"39da04e705bd847c","x":-360,"y":-140,"width":139,"height":50,"type":"text","text":"留在原公司"},
+		{"id":"a89c5bf92581cb74","x":-346,"y":-500,"width":166,"height":60,"type":"text","text":"公司情况好转，年收入 45w"},
+		{"id":"6d2811f52b9c7f49","x":-140,"y":-420,"width":160,"height":60,"type":"text","text":"公司维持现状，年收入 37w"},
+		{"id":"1120da668d7a66fd","x":-20,"y":-280,"width":140,"height":90,"type":"text","text":"公司情况变差，拿 20 w 裁员补偿"},
+		{"id":"db67ed7482d35225","x":218,"y":-360,"width":142,"height":50,"type":"text","text":"找到新工作"},
+		{"id":"2c6ba129caf958fc","type":"text","text":"找不到新工作","x":218,"y":-165,"width":162,"height":50},
+		{"id":"236e198b420733ff","x":450,"y":-680,"width":160,"height":50,"type":"text","text":"涨薪 → 45w"},
+		{"id":"a772ce4c502b0e0a","x":585,"y":-580,"width":180,"height":50,"type":"text","text":"维持现状→37 w"},
+		{"id":"50c8dee6a3539596","x":610,"y":-360,"width":150,"height":50,"type":"text","text":"降薪 → 30 w"},
+		{"id":"91772589f9a0abcc","x":510,"y":-170,"width":250,"height":60,"type":"text","text":"社保必要支出：10 个月怀孕 + 6 个月产假 → -4.8w"},
+		{"id":"e5a90d5e76be7ac0","type":"text","text":"维持现状→37 w","x":307,"y":102,"width":180,"height":50},
+		{"id":"9307c528b3890ae0","type":"text","text":"找不到新工作","x":-42,"y":465,"width":162,"height":50},
+		{"id":"f289cb8c99c25083","type":"text","text":"社保必要支出：10 个月怀孕 + 6 个月产假 → -4.8w","x":250,"y":460,"width":250,"height":60},
+		{"id":"1ccfe8e517e9d0e2","type":"text","text":"找到新工作","x":-60,"y":95,"width":142,"height":50},
+		{"id":"9475af3ce5d12222","type":"text","text":"涨薪 → 45w","x":200,"y":-60,"width":160,"height":50},
+		{"id":"42f31bcaada7c7fa","type":"text","text":"降薪 → 30 w","x":210,"y":240,"width":150,"height":50},
+		{"id":"143341ad25608e7f","x":-310,"y":215,"width":170,"height":50,"type":"text","text":"现在拿 N+1"},
+		{"id":"29609ff7b078db92","x":-400,"y":-1080,"width":1160,"height":340,"type":"text","text":"目标：\n- 2027 年 7 月之前怀孕\n\n事实：\n- 房贷每月 1.1w, 生活费每月 6k\n- 下面的薪资都是税前的，交税大约 10%（已经考虑了公积金）\n\n倾向：\n- 暂不考虑国外的工作\n- 希望享受到在中国休产假的福利（生育津贴大约和降薪后的税后工资持平）"}
+	],
+	"edges":[
+		{"id":"ae4b557260f8def5","fromNode":"cbeb067169dc8a1c","fromSide":"right","toNode":"39da04e705bd847c","toSide":"left"},
+		{"id":"de48ada878750d6c","fromNode":"39da04e705bd847c","fromSide":"right","toNode":"a89c5bf92581cb74","toSide":"left","label":"10%"},
+		{"id":"6dcb6d679197fdc6","fromNode":"39da04e705bd847c","fromSide":"right","toNode":"6d2811f52b9c7f49","toSide":"left","label":"50%"},
+		{"id":"e5489aea9b41cd75","fromNode":"39da04e705bd847c","fromSide":"right","toNode":"1120da668d7a66fd","toSide":"left","label":"40%"},
+		{"id":"6ce2334e91beab39","fromNode":"1120da668d7a66fd","fromSide":"right","toNode":"2c6ba129caf958fc","toSide":"left","label":"45%"},
+		{"id":"373a737a78fea3ab","fromNode":"db67ed7482d35225","fromSide":"right","toNode":"236e198b420733ff","toSide":"left","label":"10%"},
+		{"id":"d6433d75b46d16b1","fromNode":"db67ed7482d35225","fromSide":"right","toNode":"a772ce4c502b0e0a","toSide":"left","label":"25%"},
+		{"id":"eee82022fd7035c6","fromNode":"db67ed7482d35225","fromSide":"right","toNode":"50c8dee6a3539596","toSide":"left","label":"20%"},
+		{"id":"2694c8878bd37f78","fromNode":"2c6ba129caf958fc","fromSide":"right","toNode":"91772589f9a0abcc","toSide":"left"},
+		{"id":"5e764550a25187cf","fromNode":"cbeb067169dc8a1c","fromSide":"right","toNode":"143341ad25608e7f","toSide":"left"},
+		{"id":"0025406a0ad02388","fromNode":"1ccfe8e517e9d0e2","fromSide":"right","toNode":"9475af3ce5d12222","toSide":"left","label":"10%"},
+		{"id":"f624fd3157305fb0","fromNode":"1ccfe8e517e9d0e2","fromSide":"right","toNode":"e5a90d5e76be7ac0","toSide":"left","label":"25%"},
+		{"id":"5594f9fb9010efa1","fromNode":"1ccfe8e517e9d0e2","fromSide":"right","toNode":"42f31bcaada7c7fa","toSide":"left","label":"20%"},
+		{"id":"0b4c260e40837be3","fromNode":"9307c528b3890ae0","fromSide":"right","toNode":"f289cb8c99c25083","toSide":"left"},
+		{"id":"f8a3b9c3d371d8f4","fromNode":"143341ad25608e7f","fromSide":"right","toNode":"9307c528b3890ae0","toSide":"left","label":"45%"},
+		{"id":"db0d8df29cfd2542","fromNode":"1120da668d7a66fd","fromSide":"right","toNode":"db67ed7482d35225","toSide":"left"},
+		{"id":"b2ffd1bd4a40c2fa","fromNode":"143341ad25608e7f","fromSide":"right","toNode":"1ccfe8e517e9d0e2","toSide":"left"}
+	]
+}

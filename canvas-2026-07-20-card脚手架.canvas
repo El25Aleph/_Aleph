@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"f96fc8a28dd2b368","type":"file","file":"docs/card-@贝叶斯更新.md","x":-257,"y":-297,"width":557,"height":317},
+		{"id":"4be73f400b695868","type":"file","file":"docs/card-@二八法则.md","x":440,"y":-297,"width":557,"height":400},
+		{"id":"ec88719160fcea73","type":"file","file":"docs/card-@系统1系统2.md","x":-257,"y":200,"width":557,"height":400},
+		{"id":"b69d43a2d13eb37d","type":"file","file":"docs/card-@认知偏差清单.md","x":440,"y":200,"width":720,"height":400},
+		{"id":"674f129d9230072e","type":"file","file":"docs/card-@刻意练习.md","x":-1057,"y":-297,"width":720,"height":317},
+		{"id":"043d0e2889c5ef62","type":"file","file":"docs/card-@进化层级模型.md","x":-1000,"y":-920,"width":880,"height":400},
+		{"id":"291fc23a2aba96f7","type":"file","file":"docs/card-@精度操控三型.md","x":-1057,"y":200,"width":720,"height":400}
+	],
+	"edges":[]
+}
