@@ -16,7 +16,10 @@
       "Bash(git commit *)",
       "Bash(cp \"/c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/41224ec9-40f9-4591-aa09-098518f9602a/scratchpad/边界地图-原料汇集.md\" \"docs/_scratch-边界地图-原料汇集.md\")",
       "Bash(rm \"/c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/41224ec9-40f9-4591-aa09-098518f9602a/scratchpad/边界地图-原料汇集.md\")",
-      "Bash(git restore *)"
+      "Bash(git restore *)",
+      "PowerShell(git *10)",
+      "PowerShell(git *)",
+      "PowerShell(cd \"C:\\\\Users\\\\zhang\\\\Documents\\\\GitHub\\\\_Aleph\"; git status --porcelain; \"---- untracked file sizes ----\"; git ls-files --others --exclude-standard | ForEach-Object { $f = $_; $i = Get-Item -LiteralPath $f -ErrorAction SilentlyContinue; if \\($i\\) { \"{0,10}  {1}\" -f $i.Length, $f } })"
     ]
   }
 }
