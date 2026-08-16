@@ -19,7 +19,8 @@
       "Bash(git restore *)",
       "PowerShell(git *10)",
       "PowerShell(git *)",
-      "PowerShell(cd \"C:\\\\Users\\\\zhang\\\\Documents\\\\GitHub\\\\_Aleph\"; git status --porcelain; \"---- untracked file sizes ----\"; git ls-files --others --exclude-standard | ForEach-Object { $f = $_; $i = Get-Item -LiteralPath $f -ErrorAction SilentlyContinue; if \\($i\\) { \"{0,10}  {1}\" -f $i.Length, $f } })"
+      "PowerShell(cd \"C:\\\\Users\\\\zhang\\\\Documents\\\\GitHub\\\\_Aleph\"; git status --porcelain; \"---- untracked file sizes ----\"; git ls-files --others --exclude-standard | ForEach-Object { $f = $_; $i = Get-Item -LiteralPath $f -ErrorAction SilentlyContinue; if \\($i\\) { \"{0,10}  {1}\" -f $i.Length, $f } })",
+      "PowerShell(git push *)"
     ]
   }
 }
