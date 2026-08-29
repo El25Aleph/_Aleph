@@ -1,3 +1,8 @@
 .DS_Store
 
 .obsidian/
+
+# 私密内容：不进版本控制，只留在本地工作区
+# （2026-08-29 起。判据：涉及收入 / 家庭规划 / 亲密关系的具体信息，
+#  与 memory 不进 GitHub 是同一条理由——见 _todo 🟠「备份 memory 到 OneDrive」）
+生娃抉择.canvas
