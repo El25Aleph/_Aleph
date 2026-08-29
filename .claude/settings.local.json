@@ -28,7 +28,11 @@
       "Bash(grep -rn \"]\\(\\\\\\(\\\\.\\\\./\\\\\\)\\\\?PWPE与非对称决策模型\\\\.md\\)\\\\|]\\(\\\\\\(\\\\.\\\\./\\\\\\)\\\\?Ni-Te-audit\\\\.md\\)\" --include=\"*.md\" .)",
       "Bash(grep -rn \"^  - PWPE与非对称决策模型$\\\\|^  - Ni-Te-audit$\" --include=\"*.md\" .)",
       "Bash(sed -i '210d' _todo.md)",
-      "Bash(sed -i 's#^## 三、!q- / !h- 全表（17 条：7 独立 + 3 假设 + 7 候选）### 三、!q- / !h- 全表（16 条：7 独立 + 3 假设 + 6 候选）#; s#^### 候选池（7 条）#### 候选池（6 条）#' _todo.md)"
+      "Bash(sed -i 's#^## 三、!q- / !h- 全表（17 条：7 独立 + 3 假设 + 7 候选）### 三、!q- / !h- 全表（16 条：7 独立 + 3 假设 + 6 候选）#; s#^### 候选池（7 条）#### 候选池（6 条）#' _todo.md)",
+      "Bash(cp _todo.md /c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/3b0a0768-cd12-4c6d-bd1e-f19ace890b9a/scratchpad/_todo.bak.md)",
+      "Bash(sed -i '157,165d' _todo.md)",
+      "Bash(sed -i '124,150d' _todo.md)",
+      "Bash(sed -n '/^## 二、等待信号/,/^## 三、/p' _todo.md)"
     ]
   }
 }
