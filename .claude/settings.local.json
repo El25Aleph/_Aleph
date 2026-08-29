@@ -37,7 +37,10 @@
       "Read(//tmp/**)",
       "Bash(awk 'NR>=197 && NR<=207 {printf \"%d|%s\\\\n\", NR, $0}' _todo.md)",
       "Bash(awk '/^## 三、/,/^### 已成篇/' _todo.md)",
-      "Bash(grep -n \"^#\\\\{2,3\\\\} \" _toRead.md)"
+      "Bash(grep -n \"^#\\\\{2,3\\\\} \" _toRead.md)",
+      "Bash(awk 'NR>=75 && NR<=105 && /^\\\\| / && !/^\\\\| 项 \\\\|/ && !/^\\\\|---/ {printf \"%d| %.40s\\\\n\", NR, $0}' _todo.md)",
+      "Bash(sed -i '75,105{/^| /{/^| 项 |/!{/^|---/!s/^| /| ☐ /}}}' _todo.md)",
+      "Bash(awk 'NR>=75 && NR<=103' _todo.md)"
     ]
   }
 }
