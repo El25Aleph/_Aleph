@@ -47,7 +47,9 @@
       "Bash(awk '/已完成项 →/{for\\(i=-4;i<=4;i++\\) print NR+i\": \"; exit}' _todo.md)",
       "Bash(sed -n '/^### 🟠/,/^## 2\\\\. pending/p' _todo.md)",
       "Bash(awk 'NR>=27 && NR<=32 {printf \"%d| %.50s\\\\n\", NR, $0}' _todo.md)",
-      "Bash(awk 'NR>=55 && NR<=64 {printf \"%d| %.50s\\\\n\", NR, $0}' _todo.md)"
+      "Bash(awk 'NR>=55 && NR<=64 {printf \"%d| %.50s\\\\n\", NR, $0}' _todo.md)",
+      "Bash(awk 'NR>=11 && NR<=36 {print}' _todo.md)",
+      "Bash(sed -n '/^## 2\\\\. pending/,/^### 2.1/p' _todo.md)"
     ]
   }
 }
