@@ -49,7 +49,10 @@
       "Bash(awk 'NR>=27 && NR<=32 {printf \"%d| %.50s\\\\n\", NR, $0}' _todo.md)",
       "Bash(awk 'NR>=55 && NR<=64 {printf \"%d| %.50s\\\\n\", NR, $0}' _todo.md)",
       "Bash(awk 'NR>=11 && NR<=36 {print}' _todo.md)",
-      "Bash(sed -n '/^## 2\\\\. pending/,/^### 2.1/p' _todo.md)"
+      "Bash(sed -n '/^## 2\\\\. pending/,/^### 2.1/p' _todo.md)",
+      "Bash(mkdir -p \"/c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/3b0a0768-cd12-4c6d-bd1e-f19ace890b9a/scratchpad\")",
+      "Bash(git bundle *)",
+      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch \"未命名.canvas\"' --prune-empty --tag-name-filter cat -- --all)"
     ]
   }
 }
