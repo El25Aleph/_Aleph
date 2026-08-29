@@ -1,6 +1,6 @@
 # 模型清单（_models）
 
-> **总索引**：[_overview](_overview.md) ——12 个 cluster + 6 张 moc 的入口表
+> **总索引**：[_overview](../_overview.md) ——12 个 cluster + 6 张 moc 的入口表
 >
 > **关于本文性质**：这里记录的是当前理解的模型与概念，不是权威结论。任何条目都可能被新证据修正——文件名从 `_wiki.md` 改为 `_models.md` 就是为了去掉"百科"的语义重量。
 
@@ -9,7 +9,7 @@
 1. **§1 模型清单**——当前 `book-` / `ref-` 中已识别的模型与概念，按 4 类分组。新笔记进来时拿这里做对照基准，判定是否新增 / 扩展 / 补充应用场景。
 2. **§2 实践映射**——这些模型在 `tracking-` 中的落地状态（已应用 / 待落地）。
 
-笔记类型如何分簇、moc 如何挂问题、cluster 如何归属——见 [_overview](_overview.md)。toolkit 的桥接清单也在 _overview 的 cluster 详情里直接可看，本文不再重复维护。
+笔记类型如何分簇、moc 如何挂问题、cluster 如何归属——见 [_overview](../_overview.md)。toolkit 的桥接清单也在 _overview 的 cluster 详情里直接可看，本文不再重复维护。
 
 ## 1. 核心模型与概念
 

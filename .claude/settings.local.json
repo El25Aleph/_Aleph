@@ -20,7 +20,11 @@
       "PowerShell(git *10)",
       "PowerShell(git *)",
       "PowerShell(cd \"C:\\\\Users\\\\zhang\\\\Documents\\\\GitHub\\\\_Aleph\"; git status --porcelain; \"---- untracked file sizes ----\"; git ls-files --others --exclude-standard | ForEach-Object { $f = $_; $i = Get-Item -LiteralPath $f -ErrorAction SilentlyContinue; if \\($i\\) { \"{0,10}  {1}\" -f $i.Length, $f } })",
-      "PowerShell(git push *)"
+      "PowerShell(git push *)",
+      "Bash(grep -n \"^#\\\\{1,3\\\\} \\\\|^---$\\\\|^type:\\\\|^title:\" \"moc-@INTJ人生指南.md\")",
+      "Bash(grep -n \"^#\\\\{1,2\\\\} \" \"moc-@认知链路-v2.md\")",
+      "Bash(grep -n \"]\\(\\\\.\\\\./\\\\|]\\(http\\\\|]\\(image\\\\|]\\(\\\\.\\\\.\\\\\\\\\\\\\\\\\" \"moc-@认知链路.md\" \"moc-@认知链路-v2.md\" \"书接上回-能力圈勘定.md\" \"moc-@决策杠杆.md\")",
+      "Bash(python -)"
     ]
   }
 }
