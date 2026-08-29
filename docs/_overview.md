@@ -52,7 +52,8 @@ tags:
 | dashboard | 记什么 | 覆盖 |
 |---|---|---|
 | [moc-@健康](moc-@健康.md) | 一个生活域的现状 + checklist + 时间线行动 | 健康 |
-| [`_todo` §三 `!q-` / `!h-` 全表](_todo.md) | 哪些问题还开着、各自在等什么 | 自我认知层 |
+| [`_todo` §2.2 开着的问题](_todo.md) | 哪些问题还开着、各自在等什么 | 自我认知层 |
+| [_toRead](_toRead.md) | 下一批读什么（按 cluster 分区）| 全库选书 |
 
 ### 索引 —— 无驱动问题，打开是为了查找
 
@@ -79,7 +80,7 @@ tags:
 
 | 笔记 | 中心论点 | 厚版原件 | 生出的 `!q-` |
 |---|---|---|---|
-| [!distill-PWPE与非对称决策模型](!distill-PWPE与非对称决策模型.md) | 决策的本质是大脑在非对称模型中做权衡——收益 vs 成本 | [moc-@认知链路-v2](archive/moc-@认知链路-v2.md) | `_todo` §三 C007 / C008 |
+| [!distill-PWPE与非对称决策模型](!distill-PWPE与非对称决策模型.md) | 决策的本质是大脑在非对称模型中做权衡——收益 vs 成本 | [moc-@认知链路-v2](archive/moc-@认知链路-v2.md) | `_todo` §2.2b C007 / C008 |
 | [!distill-Ni-Te-audit](!distill-Ni-Te-audit.md) | 认知觉醒 ≠ 纳入能力圈，只有经过实践的才算 | [书接上回-能力圈勘定](archive/书接上回-能力圈勘定.md) | — |
 
 配套：[PWPE与非对称决策模型-行动层pending](PWPE与非对称决策模型-行动层pending.md)（行动怎么追踪的模板草稿，未验证，等前半段真跑起来再提炼）。
@@ -242,6 +243,7 @@ tags:
 ### 工作区（不算篇数）
 
 - [_scratch-边界地图-原料汇集](_scratch-边界地图-原料汇集.md) — 原料汇集，不是成篇笔记
+- [_toRead](_toRead.md) — 待读清单（dashboard），2026-08-29 从 `_todo` §四 拆出。服务的是「按 cluster 选书 → AI 批量读 → 横向对比」那条工作流
 
 ---
 

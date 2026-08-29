@@ -32,7 +32,12 @@
       "Bash(cp _todo.md /c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/3b0a0768-cd12-4c6d-bd1e-f19ace890b9a/scratchpad/_todo.bak.md)",
       "Bash(sed -i '157,165d' _todo.md)",
       "Bash(sed -i '124,150d' _todo.md)",
-      "Bash(sed -n '/^## 二、等待信号/,/^## 三、/p' _todo.md)"
+      "Bash(sed -n '/^## 二、等待信号/,/^## 三、/p' _todo.md)",
+      "Bash(grep -n \"^#\\\\{1,3\\\\} \\\\|^---$\" \"tracking-@书籍阅读.md\")",
+      "Read(//tmp/**)",
+      "Bash(awk 'NR>=197 && NR<=207 {printf \"%d|%s\\\\n\", NR, $0}' _todo.md)",
+      "Bash(awk '/^## 三、/,/^### 已成篇/' _todo.md)",
+      "Bash(grep -n \"^#\\\\{2,3\\\\} \" _toRead.md)"
     ]
   }
 }
