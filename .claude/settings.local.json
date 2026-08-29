@@ -52,7 +52,10 @@
       "Bash(sed -n '/^## 2\\\\. pending/,/^### 2.1/p' _todo.md)",
       "Bash(mkdir -p \"/c/Users/zhang/AppData/Local/Temp/claude/C--Users-zhang-Documents-GitHub--Aleph/3b0a0768-cd12-4c6d-bd1e-f19ace890b9a/scratchpad\")",
       "Bash(git bundle *)",
-      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch \"未命名.canvas\"' --prune-empty --tag-name-filter cat -- --all)"
+      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch \"未命名.canvas\"' --prune-empty --tag-name-filter cat -- --all)",
+      "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch \"未命名.canvas\"' --prune-empty -- e784239^..HEAD)",
+      "Bash(git stash *)",
+      "Bash(grep -o \"git show [0-9a-f^]*:[^\\\\`]*\")"
     ]
   }
 }
