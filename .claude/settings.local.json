@@ -42,7 +42,10 @@
       "Bash(sed -i '75,105{/^| /{/^| 项 |/!{/^|---/!s/^| /| ☐ /}}}' _todo.md)",
       "Bash(awk 'NR>=75 && NR<=103' _todo.md)",
       "Bash(git rm *)",
-      "Bash(git check-ignore *)"
+      "Bash(git check-ignore *)",
+      "Bash(awk 'NR>=17 && NR<=22 || NR>=70 && NR<=76 {printf \"%d| %.60s\\\\n\", NR, $0}' _todo.md)",
+      "Bash(awk '/已完成项 →/{for\\(i=-4;i<=4;i++\\) print NR+i\": \"; exit}' _todo.md)",
+      "Bash(sed -n '/^### 🟠/,/^## 2\\\\. pending/p' _todo.md)"
     ]
   }
 }
