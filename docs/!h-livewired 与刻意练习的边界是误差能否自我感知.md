@@ -9,8 +9,8 @@ tags:
   - 系统12
   - 预测精度
 links:
-  - Ni-Te-audit
-  - PWPE与非对称决策模型
+  - !distill-Ni-Te-audit
+  - !distill-PWPE与非对称决策模型
   - card-@刻意练习
   - card-@系统1系统2
 source: 2026-08-02 audit !q- 候选池簇①（专精 vs 拓展）时，从 Ni-Te-audit 里 livewired（体能，脚注 1）与刻意练习（工作，脚注 2）边界未言明处生成
@@ -64,8 +64,8 @@ Ni-Te-audit 把行动分成「技能提升＝刻意练习」和「习惯维持�
 
 # 关联
 
-- [Ni-Te-audit](Ni-Te-audit.md) —— 本假设的来源；它的方法论对比表把 livewired 和刻意练习各给了一句脚注，边界没展开，本篇是那条边界的展开。
-- [PWPE与非对称决策模型](PWPE与非对称决策模型.md) —— 「误差 × 精度」是本假设的机制根基；livewired vs 刻意练习被统一成「高精度反馈从哪来」。
+- [Ni-Te-audit](!distill-Ni-Te-audit.md) —— 本假设的来源；它的方法论对比表把 livewired 和刻意练习各给了一句脚注，边界没展开，本篇是那条边界的展开。
+- [PWPE与非对称决策模型](!distill-PWPE与非对称决策模型.md) —— 「误差 × 精度」是本假设的机制根基；livewired vs 刻意练习被统一成「高精度反馈从哪来」。
 - 与 !q- 候选池簇①（专精 vs 拓展）同源，但不同题：那簇问「精力放哪个领域」，本篇问「单个技能内部，要不要外部校准」。
 
 ---
